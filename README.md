@@ -22,7 +22,7 @@ The simulation process involves:
 
 ## Installation and Usage
 
-# Libraries Used in the Project
+### Libraries Used in the Project
 
 ## 1. Faker
 - **Purpose**: Generates fake data such as names, addresses, numbers, etc. 
