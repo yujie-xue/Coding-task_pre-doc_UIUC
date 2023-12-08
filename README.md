@@ -8,7 +8,7 @@ The project involves a hypothetical field experiment where 5,000 participants ac
 
 ## Repository Structure
 
-- `Stimulation.ipynb`: Script for simulating the survey and assignment data.
+- `Simulation.ipynb`: Script for simulating the survey and assignment data.
 - `Output.py`: Script for analyzing the simulated data, including logistic regression.
 - `baseline_survey_data.csv` : Baseline Survey
 - `random_assignment_data.csv`: Treatment Assignment
