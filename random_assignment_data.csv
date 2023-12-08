@@ -1,5001 +1,5001 @@
 Participant_ID,Assigned_Group
-1,Control
-2,Reason Ad
-3,Control
-4,Reason Ad
-5,Emotion Ad
-6,Emotion Ad
-7,Control
+1,Emotion Ad
+2,Control
+3,Reason Ad
+4,Emotion Ad
+5,Control
+6,Reason Ad
+7,Reason Ad
 8,Reason Ad
 9,Emotion Ad
-10,Emotion Ad
-11,Reason Ad
-12,Emotion Ad
-13,Control
+10,Control
+11,Control
+12,Reason Ad
+13,Reason Ad
 14,Control
-15,Reason Ad
-16,Reason Ad
-17,Reason Ad
-18,Emotion Ad
+15,Emotion Ad
+16,Emotion Ad
+17,Control
+18,Reason Ad
 19,Control
-20,Control
+20,Reason Ad
 21,Emotion Ad
-22,Reason Ad
+22,Control
 23,Control
-24,Control
+24,Emotion Ad
 25,Control
-26,Emotion Ad
+26,Control
 27,Reason Ad
-28,Emotion Ad
+28,Reason Ad
 29,Reason Ad
-30,Emotion Ad
-31,Control
+30,Control
+31,Reason Ad
 32,Reason Ad
-33,Reason Ad
+33,Emotion Ad
 34,Reason Ad
-35,Emotion Ad
+35,Control
 36,Control
-37,Control
-38,Control
-39,Emotion Ad
-40,Control
-41,Reason Ad
-42,Reason Ad
-43,Emotion Ad
+37,Reason Ad
+38,Emotion Ad
+39,Reason Ad
+40,Emotion Ad
+41,Control
+42,Emotion Ad
+43,Control
 44,Emotion Ad
 45,Reason Ad
 46,Emotion Ad
 47,Control
 48,Control
-49,Reason Ad
+49,Emotion Ad
 50,Reason Ad
-51,Control
-52,Control
-53,Control
-54,Emotion Ad
-55,Control
+51,Reason Ad
+52,Reason Ad
+53,Emotion Ad
+54,Control
+55,Reason Ad
 56,Control
 57,Reason Ad
-58,Reason Ad
+58,Emotion Ad
 59,Emotion Ad
-60,Control
-61,Control
+60,Reason Ad
+61,Emotion Ad
 62,Emotion Ad
-63,Emotion Ad
-64,Emotion Ad
-65,Reason Ad
+63,Reason Ad
+64,Reason Ad
+65,Emotion Ad
 66,Reason Ad
-67,Emotion Ad
+67,Reason Ad
 68,Reason Ad
 69,Emotion Ad
 70,Reason Ad
-71,Emotion Ad
-72,Emotion Ad
+71,Control
+72,Reason Ad
 73,Reason Ad
 74,Emotion Ad
-75,Emotion Ad
-76,Reason Ad
-77,Control
-78,Emotion Ad
-79,Control
-80,Control
-81,Control
-82,Emotion Ad
+75,Reason Ad
+76,Emotion Ad
+77,Reason Ad
+78,Reason Ad
+79,Reason Ad
+80,Emotion Ad
+81,Reason Ad
+82,Control
 83,Emotion Ad
-84,Reason Ad
+84,Control
 85,Reason Ad
 86,Control
-87,Emotion Ad
+87,Control
 88,Reason Ad
-89,Reason Ad
-90,Control
+89,Emotion Ad
+90,Reason Ad
 91,Emotion Ad
-92,Control
+92,Emotion Ad
 93,Control
-94,Emotion Ad
+94,Reason Ad
 95,Control
-96,Reason Ad
-97,Control
-98,Control
-99,Control
+96,Emotion Ad
+97,Reason Ad
+98,Reason Ad
+99,Reason Ad
 100,Reason Ad
-101,Reason Ad
-102,Reason Ad
+101,Emotion Ad
+102,Control
 103,Reason Ad
 104,Control
-105,Control
+105,Emotion Ad
 106,Control
-107,Emotion Ad
-108,Emotion Ad
+107,Control
+108,Control
 109,Emotion Ad
 110,Emotion Ad
-111,Reason Ad
-112,Emotion Ad
-113,Control
-114,Control
+111,Control
+112,Control
+113,Emotion Ad
+114,Emotion Ad
 115,Reason Ad
-116,Emotion Ad
-117,Reason Ad
+116,Reason Ad
+117,Emotion Ad
 118,Reason Ad
-119,Emotion Ad
-120,Emotion Ad
-121,Emotion Ad
-122,Control
-123,Emotion Ad
-124,Reason Ad
-125,Emotion Ad
-126,Reason Ad
-127,Emotion Ad
-128,Reason Ad
-129,Emotion Ad
+119,Reason Ad
+120,Reason Ad
+121,Reason Ad
+122,Emotion Ad
+123,Control
+124,Emotion Ad
+125,Reason Ad
+126,Control
+127,Control
+128,Control
+129,Control
 130,Control
-131,Emotion Ad
-132,Emotion Ad
+131,Reason Ad
+132,Reason Ad
 133,Reason Ad
 134,Reason Ad
-135,Control
-136,Control
+135,Emotion Ad
+136,Reason Ad
 137,Control
 138,Emotion Ad
-139,Emotion Ad
-140,Control
-141,Control
-142,Reason Ad
-143,Reason Ad
+139,Reason Ad
+140,Reason Ad
+141,Reason Ad
+142,Control
+143,Control
 144,Reason Ad
-145,Emotion Ad
-146,Reason Ad
+145,Reason Ad
+146,Control
 147,Reason Ad
-148,Control
+148,Emotion Ad
 149,Reason Ad
 150,Emotion Ad
-151,Control
-152,Control
+151,Emotion Ad
+152,Emotion Ad
 153,Control
 154,Emotion Ad
 155,Reason Ad
-156,Reason Ad
-157,Control
+156,Control
+157,Emotion Ad
 158,Control
-159,Emotion Ad
+159,Reason Ad
 160,Reason Ad
-161,Reason Ad
+161,Emotion Ad
 162,Emotion Ad
-163,Control
-164,Emotion Ad
+163,Reason Ad
+164,Control
 165,Reason Ad
-166,Emotion Ad
-167,Control
-168,Reason Ad
-169,Emotion Ad
-170,Reason Ad
-171,Control
-172,Control
-173,Emotion Ad
-174,Control
-175,Emotion Ad
-176,Control
-177,Emotion Ad
+166,Control
+167,Reason Ad
+168,Control
+169,Reason Ad
+170,Control
+171,Reason Ad
+172,Reason Ad
+173,Control
+174,Emotion Ad
+175,Reason Ad
+176,Emotion Ad
+177,Control
 178,Control
-179,Control
+179,Emotion Ad
 180,Control
 181,Emotion Ad
-182,Reason Ad
+182,Emotion Ad
 183,Reason Ad
 184,Reason Ad
 185,Control
-186,Emotion Ad
-187,Control
-188,Emotion Ad
-189,Reason Ad
-190,Emotion Ad
-191,Reason Ad
-192,Control
+186,Control
+187,Emotion Ad
+188,Reason Ad
+189,Control
+190,Reason Ad
+191,Control
+192,Reason Ad
 193,Reason Ad
-194,Control
-195,Reason Ad
+194,Emotion Ad
+195,Control
 196,Emotion Ad
 197,Control
-198,Reason Ad
-199,Emotion Ad
-200,Control
-201,Emotion Ad
+198,Control
+199,Reason Ad
+200,Emotion Ad
+201,Reason Ad
 202,Emotion Ad
 203,Control
-204,Reason Ad
-205,Control
-206,Emotion Ad
+204,Emotion Ad
+205,Reason Ad
+206,Reason Ad
 207,Emotion Ad
 208,Emotion Ad
-209,Control
-210,Control
-211,Reason Ad
-212,Control
-213,Emotion Ad
+209,Reason Ad
+210,Emotion Ad
+211,Emotion Ad
+212,Reason Ad
+213,Control
 214,Control
-215,Reason Ad
+215,Emotion Ad
 216,Emotion Ad
 217,Control
 218,Emotion Ad
-219,Control
+219,Emotion Ad
 220,Reason Ad
 221,Control
-222,Emotion Ad
-223,Control
+222,Control
+223,Reason Ad
 224,Control
-225,Control
-226,Emotion Ad
-227,Control
-228,Control
+225,Emotion Ad
+226,Control
+227,Emotion Ad
+228,Reason Ad
 229,Control
-230,Control
-231,Reason Ad
-232,Control
-233,Emotion Ad
+230,Reason Ad
+231,Emotion Ad
+232,Emotion Ad
+233,Reason Ad
 234,Emotion Ad
 235,Control
-236,Reason Ad
-237,Emotion Ad
-238,Control
-239,Reason Ad
-240,Reason Ad
-241,Emotion Ad
-242,Emotion Ad
-243,Emotion Ad
+236,Control
+237,Control
+238,Reason Ad
+239,Control
+240,Control
+241,Control
+242,Reason Ad
+243,Control
 244,Emotion Ad
-245,Emotion Ad
+245,Control
 246,Control
-247,Emotion Ad
-248,Emotion Ad
+247,Reason Ad
+248,Reason Ad
 249,Emotion Ad
-250,Emotion Ad
-251,Control
+250,Control
+251,Reason Ad
 252,Reason Ad
 253,Emotion Ad
-254,Reason Ad
-255,Emotion Ad
-256,Reason Ad
-257,Emotion Ad
-258,Control
-259,Control
-260,Reason Ad
-261,Emotion Ad
-262,Control
-263,Control
+254,Control
+255,Reason Ad
+256,Emotion Ad
+257,Reason Ad
+258,Emotion Ad
+259,Emotion Ad
+260,Control
+261,Control
+262,Reason Ad
+263,Emotion Ad
 264,Emotion Ad
-265,Reason Ad
-266,Control
+265,Control
+266,Reason Ad
 267,Emotion Ad
-268,Control
+268,Reason Ad
 269,Control
-270,Emotion Ad
-271,Reason Ad
-272,Reason Ad
-273,Emotion Ad
+270,Control
+271,Control
+272,Emotion Ad
+273,Reason Ad
 274,Reason Ad
-275,Control
-276,Emotion Ad
-277,Emotion Ad
-278,Reason Ad
-279,Emotion Ad
-280,Emotion Ad
+275,Emotion Ad
+276,Reason Ad
+277,Control
+278,Emotion Ad
+279,Reason Ad
+280,Reason Ad
 281,Control
-282,Reason Ad
-283,Control
+282,Emotion Ad
+283,Emotion Ad
 284,Emotion Ad
-285,Emotion Ad
-286,Reason Ad
-287,Emotion Ad
-288,Emotion Ad
+285,Control
+286,Emotion Ad
+287,Reason Ad
+288,Control
 289,Emotion Ad
-290,Emotion Ad
-291,Control
-292,Control
+290,Control
+291,Reason Ad
+292,Emotion Ad
 293,Control
-294,Reason Ad
-295,Control
+294,Emotion Ad
+295,Emotion Ad
 296,Control
 297,Control
-298,Control
-299,Reason Ad
-300,Emotion Ad
-301,Control
+298,Emotion Ad
+299,Emotion Ad
+300,Reason Ad
+301,Reason Ad
 302,Control
-303,Emotion Ad
-304,Reason Ad
-305,Reason Ad
+303,Reason Ad
+304,Emotion Ad
+305,Emotion Ad
 306,Control
 307,Control
-308,Emotion Ad
-309,Control
+308,Control
+309,Reason Ad
 310,Reason Ad
 311,Reason Ad
-312,Reason Ad
-313,Control
-314,Emotion Ad
-315,Emotion Ad
-316,Emotion Ad
-317,Emotion Ad
+312,Control
+313,Emotion Ad
+314,Control
+315,Reason Ad
+316,Control
+317,Control
 318,Emotion Ad
 319,Emotion Ad
-320,Reason Ad
+320,Control
 321,Control
-322,Emotion Ad
+322,Reason Ad
 323,Emotion Ad
 324,Emotion Ad
 325,Control
-326,Emotion Ad
-327,Reason Ad
-328,Reason Ad
-329,Emotion Ad
+326,Control
+327,Control
+328,Control
+329,Control
 330,Control
-331,Emotion Ad
+331,Reason Ad
 332,Reason Ad
 333,Reason Ad
-334,Emotion Ad
-335,Control
-336,Reason Ad
-337,Reason Ad
-338,Control
-339,Reason Ad
-340,Control
-341,Control
+334,Reason Ad
+335,Emotion Ad
+336,Emotion Ad
+337,Control
+338,Emotion Ad
+339,Control
+340,Reason Ad
+341,Emotion Ad
 342,Emotion Ad
-343,Control
-344,Reason Ad
-345,Control
+343,Reason Ad
+344,Emotion Ad
+345,Reason Ad
 346,Emotion Ad
-347,Control
-348,Control
+347,Emotion Ad
+348,Emotion Ad
 349,Control
 350,Reason Ad
 351,Emotion Ad
-352,Emotion Ad
+352,Reason Ad
 353,Control
-354,Emotion Ad
+354,Reason Ad
 355,Control
 356,Emotion Ad
-357,Reason Ad
-358,Control
-359,Reason Ad
-360,Reason Ad
+357,Control
+358,Reason Ad
+359,Emotion Ad
+360,Emotion Ad
 361,Reason Ad
-362,Control
+362,Emotion Ad
 363,Reason Ad
 364,Control
 365,Emotion Ad
 366,Emotion Ad
 367,Control
-368,Control
-369,Control
-370,Reason Ad
-371,Control
-372,Control
-373,Reason Ad
-374,Reason Ad
+368,Reason Ad
+369,Reason Ad
+370,Emotion Ad
+371,Reason Ad
+372,Emotion Ad
+373,Control
+374,Control
 375,Reason Ad
 376,Emotion Ad
-377,Control
+377,Reason Ad
 378,Control
-379,Control
+379,Emotion Ad
 380,Emotion Ad
-381,Control
-382,Reason Ad
-383,Emotion Ad
-384,Control
-385,Control
-386,Emotion Ad
-387,Reason Ad
-388,Control
-389,Reason Ad
-390,Control
-391,Control
-392,Emotion Ad
+381,Reason Ad
+382,Emotion Ad
+383,Reason Ad
+384,Reason Ad
+385,Emotion Ad
+386,Reason Ad
+387,Emotion Ad
+388,Emotion Ad
+389,Emotion Ad
+390,Emotion Ad
+391,Reason Ad
+392,Reason Ad
 393,Reason Ad
-394,Control
+394,Emotion Ad
 395,Emotion Ad
 396,Emotion Ad
 397,Reason Ad
 398,Emotion Ad
 399,Reason Ad
-400,Reason Ad
+400,Emotion Ad
 401,Control
-402,Reason Ad
-403,Emotion Ad
-404,Reason Ad
+402,Control
+403,Control
+404,Control
 405,Reason Ad
 406,Emotion Ad
 407,Control
-408,Emotion Ad
+408,Control
 409,Control
 410,Emotion Ad
 411,Control
 412,Control
-413,Reason Ad
-414,Reason Ad
-415,Control
-416,Emotion Ad
-417,Emotion Ad
-418,Emotion Ad
-419,Emotion Ad
-420,Emotion Ad
-421,Emotion Ad
-422,Reason Ad
+413,Control
+414,Control
+415,Emotion Ad
+416,Reason Ad
+417,Reason Ad
+418,Control
+419,Reason Ad
+420,Control
+421,Reason Ad
+422,Control
 423,Control
 424,Control
 425,Emotion Ad
-426,Emotion Ad
-427,Reason Ad
-428,Reason Ad
-429,Control
+426,Control
+427,Emotion Ad
+428,Emotion Ad
+429,Emotion Ad
 430,Control
-431,Control
-432,Reason Ad
-433,Control
-434,Emotion Ad
-435,Emotion Ad
+431,Emotion Ad
+432,Emotion Ad
+433,Emotion Ad
+434,Reason Ad
+435,Control
 436,Reason Ad
-437,Emotion Ad
+437,Control
 438,Reason Ad
-439,Reason Ad
-440,Reason Ad
-441,Control
-442,Emotion Ad
-443,Emotion Ad
-444,Reason Ad
-445,Reason Ad
-446,Control
+439,Control
+440,Control
+441,Emotion Ad
+442,Reason Ad
+443,Control
+444,Control
+445,Emotion Ad
+446,Reason Ad
 447,Control
-448,Control
-449,Emotion Ad
+448,Reason Ad
+449,Reason Ad
 450,Control
 451,Reason Ad
-452,Reason Ad
-453,Reason Ad
+452,Control
+453,Emotion Ad
 454,Reason Ad
-455,Control
-456,Reason Ad
-457,Control
-458,Reason Ad
-459,Reason Ad
-460,Control
-461,Reason Ad
-462,Control
+455,Reason Ad
+456,Control
+457,Emotion Ad
+458,Emotion Ad
+459,Control
+460,Reason Ad
+461,Control
+462,Emotion Ad
 463,Reason Ad
 464,Control
-465,Reason Ad
-466,Emotion Ad
-467,Emotion Ad
-468,Emotion Ad
-469,Emotion Ad
-470,Reason Ad
-471,Control
-472,Control
+465,Emotion Ad
+466,Control
+467,Reason Ad
+468,Control
+469,Reason Ad
+470,Emotion Ad
+471,Emotion Ad
+472,Emotion Ad
 473,Emotion Ad
 474,Reason Ad
 475,Emotion Ad
 476,Emotion Ad
 477,Control
 478,Control
-479,Control
+479,Reason Ad
 480,Emotion Ad
-481,Emotion Ad
-482,Emotion Ad
-483,Emotion Ad
-484,Reason Ad
-485,Reason Ad
-486,Reason Ad
+481,Reason Ad
+482,Control
+483,Control
+484,Control
+485,Control
+486,Emotion Ad
 487,Emotion Ad
 488,Reason Ad
 489,Emotion Ad
 490,Control
-491,Emotion Ad
-492,Emotion Ad
-493,Reason Ad
+491,Control
+492,Reason Ad
+493,Control
 494,Control
-495,Control
-496,Reason Ad
-497,Reason Ad
-498,Control
-499,Emotion Ad
-500,Reason Ad
-501,Emotion Ad
-502,Emotion Ad
-503,Reason Ad
+495,Emotion Ad
+496,Control
+497,Emotion Ad
+498,Reason Ad
+499,Reason Ad
+500,Emotion Ad
+501,Control
+502,Control
+503,Emotion Ad
 504,Emotion Ad
 505,Reason Ad
 506,Reason Ad
-507,Control
+507,Emotion Ad
 508,Emotion Ad
 509,Control
 510,Emotion Ad
-511,Control
-512,Control
-513,Control
+511,Reason Ad
+512,Reason Ad
+513,Emotion Ad
 514,Reason Ad
 515,Control
-516,Reason Ad
-517,Control
-518,Reason Ad
-519,Reason Ad
-520,Control
+516,Emotion Ad
+517,Reason Ad
+518,Emotion Ad
+519,Control
+520,Reason Ad
 521,Reason Ad
 522,Control
-523,Control
+523,Emotion Ad
 524,Control
-525,Control
-526,Control
-527,Reason Ad
-528,Control
+525,Reason Ad
+526,Reason Ad
+527,Control
+528,Emotion Ad
 529,Reason Ad
 530,Emotion Ad
-531,Reason Ad
-532,Reason Ad
+531,Emotion Ad
+532,Control
 533,Control
-534,Emotion Ad
+534,Reason Ad
 535,Emotion Ad
-536,Emotion Ad
-537,Emotion Ad
-538,Control
+536,Reason Ad
+537,Reason Ad
+538,Reason Ad
 539,Reason Ad
 540,Emotion Ad
-541,Reason Ad
-542,Emotion Ad
+541,Emotion Ad
+542,Reason Ad
 543,Control
-544,Emotion Ad
+544,Reason Ad
 545,Emotion Ad
-546,Emotion Ad
+546,Control
 547,Emotion Ad
-548,Reason Ad
+548,Emotion Ad
 549,Emotion Ad
-550,Reason Ad
+550,Emotion Ad
 551,Reason Ad
 552,Emotion Ad
-553,Reason Ad
-554,Emotion Ad
-555,Emotion Ad
-556,Reason Ad
-557,Emotion Ad
-558,Reason Ad
+553,Emotion Ad
+554,Control
+555,Control
+556,Control
+557,Reason Ad
+558,Control
 559,Reason Ad
-560,Reason Ad
-561,Emotion Ad
-562,Emotion Ad
-563,Reason Ad
-564,Emotion Ad
-565,Emotion Ad
-566,Reason Ad
+560,Emotion Ad
+561,Control
+562,Reason Ad
+563,Control
+564,Reason Ad
+565,Reason Ad
+566,Control
 567,Emotion Ad
-568,Control
-569,Reason Ad
-570,Control
+568,Reason Ad
+569,Control
+570,Emotion Ad
 571,Reason Ad
 572,Reason Ad
-573,Emotion Ad
-574,Emotion Ad
-575,Emotion Ad
-576,Control
+573,Reason Ad
+574,Reason Ad
+575,Reason Ad
+576,Reason Ad
 577,Emotion Ad
-578,Control
-579,Emotion Ad
-580,Emotion Ad
-581,Reason Ad
-582,Control
+578,Reason Ad
+579,Control
+580,Reason Ad
+581,Emotion Ad
+582,Emotion Ad
 583,Control
 584,Emotion Ad
-585,Reason Ad
-586,Reason Ad
-587,Reason Ad
+585,Emotion Ad
+586,Emotion Ad
+587,Control
 588,Reason Ad
-589,Reason Ad
-590,Emotion Ad
+589,Emotion Ad
+590,Reason Ad
 591,Emotion Ad
-592,Control
-593,Reason Ad
-594,Emotion Ad
+592,Reason Ad
+593,Emotion Ad
+594,Control
 595,Reason Ad
-596,Emotion Ad
-597,Emotion Ad
-598,Reason Ad
-599,Control
+596,Reason Ad
+597,Control
+598,Emotion Ad
+599,Emotion Ad
 600,Control
-601,Emotion Ad
-602,Control
-603,Control
+601,Reason Ad
+602,Reason Ad
+603,Emotion Ad
 604,Control
-605,Emotion Ad
-606,Emotion Ad
+605,Reason Ad
+606,Control
 607,Control
 608,Reason Ad
 609,Reason Ad
-610,Control
-611,Reason Ad
+610,Reason Ad
+611,Control
 612,Reason Ad
-613,Control
+613,Emotion Ad
 614,Control
 615,Reason Ad
 616,Control
 617,Reason Ad
-618,Reason Ad
-619,Reason Ad
-620,Reason Ad
+618,Control
+619,Control
+620,Control
 621,Control
-622,Control
-623,Control
-624,Reason Ad
-625,Reason Ad
+622,Emotion Ad
+623,Emotion Ad
+624,Emotion Ad
+625,Control
 626,Control
-627,Emotion Ad
-628,Reason Ad
-629,Control
-630,Emotion Ad
-631,Reason Ad
-632,Control
+627,Reason Ad
+628,Emotion Ad
+629,Reason Ad
+630,Reason Ad
+631,Control
+632,Emotion Ad
 633,Emotion Ad
-634,Control
-635,Reason Ad
-636,Control
-637,Reason Ad
+634,Emotion Ad
+635,Control
+636,Reason Ad
+637,Emotion Ad
 638,Emotion Ad
-639,Emotion Ad
+639,Reason Ad
 640,Emotion Ad
-641,Reason Ad
-642,Reason Ad
+641,Control
+642,Control
 643,Emotion Ad
-644,Emotion Ad
-645,Emotion Ad
+644,Reason Ad
+645,Control
 646,Emotion Ad
 647,Control
-648,Emotion Ad
-649,Emotion Ad
+648,Reason Ad
+649,Reason Ad
 650,Emotion Ad
 651,Reason Ad
-652,Control
-653,Reason Ad
-654,Control
-655,Control
+652,Emotion Ad
+653,Emotion Ad
+654,Reason Ad
+655,Reason Ad
 656,Reason Ad
-657,Reason Ad
+657,Control
 658,Emotion Ad
-659,Reason Ad
+659,Emotion Ad
 660,Control
 661,Emotion Ad
-662,Reason Ad
-663,Reason Ad
-664,Control
-665,Reason Ad
+662,Emotion Ad
+663,Control
+664,Emotion Ad
+665,Emotion Ad
 666,Emotion Ad
-667,Control
+667,Reason Ad
 668,Emotion Ad
 669,Control
-670,Emotion Ad
+670,Reason Ad
 671,Reason Ad
 672,Reason Ad
 673,Emotion Ad
-674,Reason Ad
-675,Reason Ad
+674,Control
+675,Emotion Ad
 676,Emotion Ad
 677,Control
-678,Emotion Ad
-679,Reason Ad
+678,Control
+679,Emotion Ad
 680,Control
-681,Control
-682,Reason Ad
-683,Reason Ad
-684,Reason Ad
-685,Reason Ad
-686,Control
+681,Emotion Ad
+682,Emotion Ad
+683,Control
+684,Control
+685,Control
+686,Emotion Ad
 687,Reason Ad
-688,Control
-689,Reason Ad
-690,Reason Ad
+688,Reason Ad
+689,Emotion Ad
+690,Control
 691,Emotion Ad
-692,Reason Ad
-693,Reason Ad
+692,Emotion Ad
+693,Control
 694,Emotion Ad
-695,Control
-696,Control
-697,Emotion Ad
-698,Emotion Ad
-699,Emotion Ad
-700,Control
-701,Emotion Ad
-702,Emotion Ad
+695,Reason Ad
+696,Emotion Ad
+697,Reason Ad
+698,Control
+699,Reason Ad
+700,Emotion Ad
+701,Control
+702,Control
 703,Control
-704,Control
-705,Reason Ad
+704,Emotion Ad
+705,Control
 706,Control
-707,Control
+707,Emotion Ad
 708,Control
 709,Emotion Ad
-710,Reason Ad
-711,Control
-712,Emotion Ad
-713,Reason Ad
-714,Control
+710,Control
+711,Reason Ad
+712,Reason Ad
+713,Emotion Ad
+714,Reason Ad
 715,Emotion Ad
-716,Emotion Ad
-717,Control
-718,Reason Ad
-719,Reason Ad
+716,Control
+717,Emotion Ad
+718,Emotion Ad
+719,Control
 720,Control
-721,Emotion Ad
+721,Reason Ad
 722,Reason Ad
-723,Emotion Ad
-724,Control
-725,Control
+723,Control
+724,Emotion Ad
+725,Emotion Ad
 726,Reason Ad
-727,Reason Ad
-728,Control
-729,Emotion Ad
-730,Emotion Ad
-731,Control
-732,Emotion Ad
-733,Control
+727,Control
+728,Emotion Ad
+729,Reason Ad
+730,Reason Ad
+731,Emotion Ad
+732,Control
+733,Emotion Ad
 734,Control
-735,Control
-736,Reason Ad
+735,Emotion Ad
+736,Emotion Ad
 737,Control
-738,Control
-739,Reason Ad
-740,Emotion Ad
+738,Emotion Ad
+739,Emotion Ad
+740,Reason Ad
 741,Emotion Ad
 742,Control
 743,Emotion Ad
 744,Emotion Ad
-745,Reason Ad
-746,Emotion Ad
+745,Emotion Ad
+746,Reason Ad
 747,Emotion Ad
 748,Control
-749,Reason Ad
+749,Emotion Ad
 750,Emotion Ad
-751,Reason Ad
+751,Control
 752,Reason Ad
 753,Control
-754,Emotion Ad
-755,Emotion Ad
-756,Emotion Ad
-757,Reason Ad
-758,Control
+754,Reason Ad
+755,Reason Ad
+756,Reason Ad
+757,Control
+758,Reason Ad
 759,Reason Ad
-760,Control
+760,Emotion Ad
 761,Emotion Ad
-762,Control
-763,Reason Ad
+762,Emotion Ad
+763,Emotion Ad
 764,Emotion Ad
 765,Reason Ad
-766,Control
-767,Emotion Ad
-768,Reason Ad
-769,Reason Ad
+766,Reason Ad
+767,Control
+768,Emotion Ad
+769,Emotion Ad
 770,Reason Ad
-771,Control
+771,Emotion Ad
 772,Reason Ad
 773,Emotion Ad
-774,Control
-775,Emotion Ad
+774,Emotion Ad
+775,Reason Ad
 776,Reason Ad
-777,Emotion Ad
+777,Control
 778,Emotion Ad
-779,Reason Ad
-780,Control
-781,Emotion Ad
+779,Control
+780,Emotion Ad
+781,Reason Ad
 782,Control
-783,Emotion Ad
-784,Emotion Ad
-785,Emotion Ad
-786,Emotion Ad
-787,Reason Ad
-788,Reason Ad
-789,Control
-790,Reason Ad
+783,Control
+784,Reason Ad
+785,Control
+786,Reason Ad
+787,Control
+788,Control
+789,Emotion Ad
+790,Control
 791,Emotion Ad
-792,Reason Ad
+792,Emotion Ad
 793,Control
-794,Reason Ad
-795,Emotion Ad
-796,Emotion Ad
-797,Emotion Ad
-798,Reason Ad
-799,Reason Ad
-800,Reason Ad
-801,Emotion Ad
-802,Emotion Ad
-803,Emotion Ad
-804,Control
+794,Control
+795,Reason Ad
+796,Reason Ad
+797,Control
+798,Emotion Ad
+799,Control
+800,Emotion Ad
+801,Control
+802,Control
+803,Reason Ad
+804,Reason Ad
 805,Reason Ad
-806,Control
+806,Emotion Ad
 807,Control
-808,Emotion Ad
+808,Control
 809,Reason Ad
-810,Reason Ad
-811,Control
-812,Emotion Ad
+810,Control
+811,Reason Ad
+812,Control
 813,Control
-814,Emotion Ad
-815,Emotion Ad
-816,Control
-817,Emotion Ad
-818,Control
+814,Control
+815,Control
+816,Reason Ad
+817,Control
+818,Emotion Ad
 819,Control
 820,Control
-821,Reason Ad
-822,Emotion Ad
-823,Control
-824,Reason Ad
-825,Reason Ad
-826,Reason Ad
-827,Reason Ad
+821,Control
+822,Control
+823,Emotion Ad
+824,Control
+825,Emotion Ad
+826,Emotion Ad
+827,Control
 828,Emotion Ad
 829,Control
-830,Reason Ad
+830,Emotion Ad
 831,Reason Ad
-832,Emotion Ad
+832,Control
 833,Control
-834,Reason Ad
-835,Reason Ad
+834,Control
+835,Emotion Ad
 836,Emotion Ad
-837,Control
-838,Control
-839,Control
-840,Control
-841,Emotion Ad
+837,Emotion Ad
+838,Emotion Ad
+839,Emotion Ad
+840,Reason Ad
+841,Control
 842,Control
-843,Control
-844,Emotion Ad
+843,Emotion Ad
+844,Control
 845,Reason Ad
-846,Emotion Ad
+846,Control
 847,Reason Ad
 848,Emotion Ad
-849,Control
+849,Emotion Ad
 850,Control
-851,Reason Ad
-852,Reason Ad
-853,Emotion Ad
+851,Control
+852,Control
+853,Control
 854,Emotion Ad
 855,Emotion Ad
-856,Emotion Ad
-857,Control
-858,Control
-859,Control
-860,Control
+856,Reason Ad
+857,Emotion Ad
+858,Emotion Ad
+859,Emotion Ad
+860,Reason Ad
 861,Reason Ad
 862,Reason Ad
-863,Reason Ad
+863,Emotion Ad
 864,Control
 865,Reason Ad
 866,Reason Ad
 867,Reason Ad
-868,Emotion Ad
-869,Reason Ad
-870,Reason Ad
+868,Reason Ad
+869,Emotion Ad
+870,Emotion Ad
 871,Reason Ad
-872,Emotion Ad
-873,Reason Ad
-874,Emotion Ad
+872,Control
+873,Emotion Ad
+874,Reason Ad
 875,Control
-876,Reason Ad
-877,Reason Ad
-878,Emotion Ad
-879,Reason Ad
+876,Control
+877,Emotion Ad
+878,Control
+879,Control
 880,Reason Ad
-881,Emotion Ad
-882,Control
-883,Emotion Ad
-884,Emotion Ad
-885,Control
-886,Emotion Ad
-887,Emotion Ad
-888,Control
+881,Reason Ad
+882,Reason Ad
+883,Control
+884,Reason Ad
+885,Reason Ad
+886,Control
+887,Control
+888,Emotion Ad
 889,Emotion Ad
-890,Reason Ad
-891,Emotion Ad
-892,Emotion Ad
-893,Reason Ad
-894,Emotion Ad
+890,Emotion Ad
+891,Reason Ad
+892,Control
+893,Emotion Ad
+894,Reason Ad
 895,Control
 896,Reason Ad
-897,Reason Ad
+897,Control
 898,Reason Ad
-899,Control
-900,Reason Ad
-901,Reason Ad
+899,Reason Ad
+900,Emotion Ad
+901,Control
 902,Emotion Ad
 903,Control
-904,Control
-905,Control
-906,Reason Ad
-907,Emotion Ad
-908,Emotion Ad
-909,Reason Ad
-910,Emotion Ad
-911,Emotion Ad
-912,Emotion Ad
-913,Control
-914,Control
-915,Control
-916,Reason Ad
-917,Control
+904,Emotion Ad
+905,Emotion Ad
+906,Control
+907,Reason Ad
+908,Control
+909,Control
+910,Control
+911,Control
+912,Reason Ad
+913,Emotion Ad
+914,Reason Ad
+915,Reason Ad
+916,Control
+917,Emotion Ad
 918,Reason Ad
-919,Reason Ad
-920,Emotion Ad
+919,Emotion Ad
+920,Control
 921,Control
 922,Control
-923,Emotion Ad
-924,Emotion Ad
-925,Control
-926,Control
-927,Emotion Ad
-928,Control
-929,Emotion Ad
+923,Control
+924,Reason Ad
+925,Reason Ad
+926,Reason Ad
+927,Control
+928,Reason Ad
+929,Reason Ad
 930,Control
-931,Emotion Ad
+931,Reason Ad
 932,Emotion Ad
-933,Reason Ad
-934,Emotion Ad
-935,Control
+933,Control
+934,Control
+935,Reason Ad
 936,Emotion Ad
 937,Emotion Ad
-938,Emotion Ad
-939,Reason Ad
+938,Reason Ad
+939,Emotion Ad
 940,Emotion Ad
 941,Emotion Ad
-942,Control
-943,Emotion Ad
-944,Control
+942,Emotion Ad
+943,Reason Ad
+944,Reason Ad
 945,Emotion Ad
 946,Reason Ad
-947,Emotion Ad
-948,Emotion Ad
-949,Control
-950,Control
+947,Reason Ad
+948,Reason Ad
+949,Emotion Ad
+950,Emotion Ad
 951,Emotion Ad
 952,Control
-953,Emotion Ad
-954,Control
-955,Control
-956,Reason Ad
-957,Emotion Ad
-958,Reason Ad
-959,Emotion Ad
-960,Control
-961,Control
-962,Reason Ad
-963,Emotion Ad
-964,Control
-965,Reason Ad
-966,Control
-967,Control
+953,Control
+954,Emotion Ad
+955,Reason Ad
+956,Emotion Ad
+957,Reason Ad
+958,Control
+959,Control
+960,Reason Ad
+961,Reason Ad
+962,Control
+963,Control
+964,Emotion Ad
+965,Emotion Ad
+966,Emotion Ad
+967,Reason Ad
 968,Emotion Ad
-969,Reason Ad
+969,Control
 970,Control
-971,Reason Ad
+971,Emotion Ad
 972,Emotion Ad
-973,Emotion Ad
-974,Emotion Ad
+973,Control
+974,Reason Ad
 975,Emotion Ad
 976,Control
-977,Reason Ad
+977,Control
 978,Control
 979,Control
-980,Reason Ad
-981,Control
-982,Control
-983,Emotion Ad
-984,Reason Ad
-985,Control
-986,Reason Ad
-987,Emotion Ad
-988,Reason Ad
-989,Reason Ad
-990,Reason Ad
-991,Emotion Ad
-992,Emotion Ad
+980,Control
+981,Emotion Ad
+982,Emotion Ad
+983,Reason Ad
+984,Control
+985,Emotion Ad
+986,Emotion Ad
+987,Reason Ad
+988,Control
+989,Emotion Ad
+990,Emotion Ad
+991,Reason Ad
+992,Reason Ad
 993,Emotion Ad
-994,Emotion Ad
+994,Control
 995,Control
 996,Emotion Ad
-997,Reason Ad
+997,Control
 998,Reason Ad
-999,Emotion Ad
+999,Reason Ad
 1000,Control
 1001,Emotion Ad
-1002,Control
-1003,Reason Ad
-1004,Emotion Ad
+1002,Reason Ad
+1003,Emotion Ad
+1004,Control
 1005,Emotion Ad
-1006,Reason Ad
-1007,Emotion Ad
-1008,Control
-1009,Control
-1010,Emotion Ad
+1006,Emotion Ad
+1007,Reason Ad
+1008,Reason Ad
+1009,Emotion Ad
+1010,Control
 1011,Control
-1012,Emotion Ad
-1013,Control
+1012,Control
+1013,Emotion Ad
 1014,Control
 1015,Control
-1016,Control
+1016,Reason Ad
 1017,Reason Ad
-1018,Reason Ad
+1018,Emotion Ad
 1019,Control
-1020,Emotion Ad
-1021,Control
-1022,Reason Ad
-1023,Control
-1024,Control
-1025,Control
-1026,Emotion Ad
+1020,Control
+1021,Reason Ad
+1022,Control
+1023,Emotion Ad
+1024,Emotion Ad
+1025,Emotion Ad
+1026,Reason Ad
 1027,Reason Ad
-1028,Control
-1029,Control
+1028,Reason Ad
+1029,Reason Ad
 1030,Control
-1031,Reason Ad
-1032,Reason Ad
-1033,Emotion Ad
+1031,Emotion Ad
+1032,Control
+1033,Reason Ad
 1034,Control
-1035,Control
-1036,Reason Ad
-1037,Emotion Ad
-1038,Reason Ad
-1039,Emotion Ad
-1040,Control
+1035,Reason Ad
+1036,Control
+1037,Reason Ad
+1038,Emotion Ad
+1039,Control
+1040,Reason Ad
 1041,Control
-1042,Reason Ad
+1042,Emotion Ad
 1043,Control
-1044,Emotion Ad
-1045,Emotion Ad
+1044,Control
+1045,Reason Ad
 1046,Emotion Ad
-1047,Reason Ad
-1048,Reason Ad
-1049,Reason Ad
-1050,Reason Ad
+1047,Emotion Ad
+1048,Control
+1049,Control
+1050,Emotion Ad
 1051,Reason Ad
 1052,Emotion Ad
 1053,Control
 1054,Control
 1055,Control
 1056,Reason Ad
-1057,Reason Ad
-1058,Reason Ad
-1059,Emotion Ad
-1060,Control
+1057,Control
+1058,Emotion Ad
+1059,Reason Ad
+1060,Emotion Ad
 1061,Control
 1062,Control
-1063,Control
+1063,Emotion Ad
 1064,Emotion Ad
-1065,Emotion Ad
-1066,Reason Ad
-1067,Reason Ad
-1068,Emotion Ad
-1069,Emotion Ad
-1070,Reason Ad
+1065,Control
+1066,Emotion Ad
+1067,Control
+1068,Control
+1069,Reason Ad
+1070,Control
 1071,Control
 1072,Control
-1073,Control
-1074,Emotion Ad
-1075,Emotion Ad
+1073,Reason Ad
+1074,Reason Ad
+1075,Control
 1076,Control
-1077,Control
-1078,Control
+1077,Reason Ad
+1078,Emotion Ad
 1079,Reason Ad
-1080,Emotion Ad
-1081,Emotion Ad
-1082,Control
-1083,Control
+1080,Control
+1081,Reason Ad
+1082,Reason Ad
+1083,Emotion Ad
 1084,Reason Ad
-1085,Reason Ad
+1085,Control
 1086,Emotion Ad
 1087,Reason Ad
-1088,Emotion Ad
-1089,Reason Ad
+1088,Control
+1089,Control
 1090,Reason Ad
-1091,Control
+1091,Emotion Ad
 1092,Reason Ad
-1093,Emotion Ad
-1094,Reason Ad
+1093,Reason Ad
+1094,Control
 1095,Control
-1096,Reason Ad
-1097,Control
-1098,Emotion Ad
-1099,Reason Ad
-1100,Control
+1096,Control
+1097,Emotion Ad
+1098,Control
+1099,Emotion Ad
+1100,Emotion Ad
 1101,Reason Ad
-1102,Emotion Ad
-1103,Emotion Ad
+1102,Reason Ad
+1103,Control
 1104,Reason Ad
-1105,Emotion Ad
-1106,Reason Ad
-1107,Reason Ad
+1105,Reason Ad
+1106,Control
+1107,Control
 1108,Reason Ad
 1109,Control
 1110,Reason Ad
-1111,Control
+1111,Reason Ad
 1112,Control
 1113,Control
-1114,Control
-1115,Control
+1114,Reason Ad
+1115,Emotion Ad
 1116,Control
 1117,Control
-1118,Emotion Ad
+1118,Control
 1119,Emotion Ad
 1120,Reason Ad
 1121,Reason Ad
-1122,Reason Ad
+1122,Control
 1123,Emotion Ad
 1124,Emotion Ad
-1125,Reason Ad
+1125,Control
 1126,Emotion Ad
-1127,Reason Ad
-1128,Emotion Ad
-1129,Control
+1127,Control
+1128,Control
+1129,Reason Ad
 1130,Control
-1131,Reason Ad
-1132,Emotion Ad
-1133,Emotion Ad
+1131,Emotion Ad
+1132,Control
+1133,Reason Ad
 1134,Emotion Ad
-1135,Reason Ad
-1136,Control
-1137,Reason Ad
-1138,Reason Ad
+1135,Control
+1136,Emotion Ad
+1137,Emotion Ad
+1138,Emotion Ad
 1139,Reason Ad
-1140,Control
+1140,Emotion Ad
 1141,Emotion Ad
 1142,Emotion Ad
 1143,Emotion Ad
-1144,Control
-1145,Control
-1146,Reason Ad
-1147,Control
-1148,Reason Ad
+1144,Emotion Ad
+1145,Reason Ad
+1146,Control
+1147,Emotion Ad
+1148,Control
 1149,Control
-1150,Emotion Ad
-1151,Emotion Ad
-1152,Control
-1153,Emotion Ad
+1150,Reason Ad
+1151,Reason Ad
+1152,Emotion Ad
+1153,Reason Ad
 1154,Control
-1155,Reason Ad
-1156,Emotion Ad
-1157,Control
-1158,Control
+1155,Emotion Ad
+1156,Control
+1157,Reason Ad
+1158,Emotion Ad
 1159,Reason Ad
-1160,Control
-1161,Control
+1160,Emotion Ad
+1161,Reason Ad
 1162,Emotion Ad
-1163,Control
-1164,Reason Ad
-1165,Control
-1166,Emotion Ad
-1167,Emotion Ad
-1168,Emotion Ad
+1163,Reason Ad
+1164,Emotion Ad
+1165,Emotion Ad
+1166,Control
+1167,Reason Ad
+1168,Control
 1169,Emotion Ad
-1170,Reason Ad
-1171,Reason Ad
+1170,Control
+1171,Emotion Ad
 1172,Control
 1173,Control
-1174,Reason Ad
-1175,Control
-1176,Reason Ad
+1174,Control
+1175,Reason Ad
+1176,Emotion Ad
 1177,Emotion Ad
 1178,Reason Ad
-1179,Control
+1179,Reason Ad
 1180,Control
-1181,Reason Ad
+1181,Control
 1182,Control
 1183,Emotion Ad
-1184,Emotion Ad
+1184,Reason Ad
 1185,Emotion Ad
-1186,Reason Ad
-1187,Emotion Ad
-1188,Control
+1186,Emotion Ad
+1187,Control
+1188,Reason Ad
 1189,Reason Ad
-1190,Reason Ad
-1191,Reason Ad
+1190,Control
+1191,Control
 1192,Control
-1193,Reason Ad
-1194,Reason Ad
-1195,Emotion Ad
-1196,Control
-1197,Emotion Ad
-1198,Control
+1193,Emotion Ad
+1194,Emotion Ad
+1195,Control
+1196,Emotion Ad
+1197,Control
+1198,Reason Ad
 1199,Reason Ad
-1200,Reason Ad
-1201,Reason Ad
-1202,Emotion Ad
-1203,Reason Ad
-1204,Control
+1200,Control
+1201,Control
+1202,Control
+1203,Emotion Ad
+1204,Emotion Ad
 1205,Control
 1206,Emotion Ad
-1207,Control
+1207,Reason Ad
 1208,Emotion Ad
-1209,Control
-1210,Control
+1209,Emotion Ad
+1210,Reason Ad
 1211,Control
-1212,Control
-1213,Reason Ad
-1214,Reason Ad
+1212,Reason Ad
+1213,Control
+1214,Emotion Ad
 1215,Reason Ad
-1216,Reason Ad
+1216,Emotion Ad
 1217,Emotion Ad
-1218,Control
+1218,Emotion Ad
 1219,Emotion Ad
-1220,Control
-1221,Emotion Ad
+1220,Reason Ad
+1221,Reason Ad
 1222,Control
 1223,Control
-1224,Control
-1225,Reason Ad
+1224,Emotion Ad
+1225,Control
 1226,Reason Ad
-1227,Reason Ad
-1228,Emotion Ad
+1227,Emotion Ad
+1228,Control
 1229,Reason Ad
-1230,Control
+1230,Emotion Ad
 1231,Emotion Ad
-1232,Control
+1232,Emotion Ad
 1233,Reason Ad
-1234,Control
-1235,Emotion Ad
-1236,Control
+1234,Reason Ad
+1235,Reason Ad
+1236,Emotion Ad
 1237,Emotion Ad
-1238,Reason Ad
-1239,Control
+1238,Emotion Ad
+1239,Reason Ad
 1240,Reason Ad
-1241,Control
-1242,Reason Ad
-1243,Control
-1244,Reason Ad
-1245,Reason Ad
-1246,Emotion Ad
-1247,Control
-1248,Control
-1249,Control
+1241,Emotion Ad
+1242,Control
+1243,Reason Ad
+1244,Emotion Ad
+1245,Emotion Ad
+1246,Control
+1247,Emotion Ad
+1248,Reason Ad
+1249,Reason Ad
 1250,Control
-1251,Emotion Ad
+1251,Reason Ad
 1252,Reason Ad
-1253,Reason Ad
-1254,Reason Ad
+1253,Emotion Ad
+1254,Control
 1255,Emotion Ad
-1256,Reason Ad
-1257,Reason Ad
+1256,Control
+1257,Control
 1258,Emotion Ad
-1259,Emotion Ad
-1260,Reason Ad
-1261,Reason Ad
-1262,Reason Ad
-1263,Control
-1264,Reason Ad
-1265,Control
+1259,Control
+1260,Control
+1261,Control
+1262,Emotion Ad
+1263,Emotion Ad
+1264,Control
+1265,Reason Ad
 1266,Emotion Ad
-1267,Emotion Ad
+1267,Control
 1268,Reason Ad
-1269,Emotion Ad
-1270,Control
+1269,Control
+1270,Reason Ad
 1271,Reason Ad
-1272,Emotion Ad
+1272,Reason Ad
 1273,Control
-1274,Control
-1275,Reason Ad
+1274,Emotion Ad
+1275,Emotion Ad
 1276,Emotion Ad
 1277,Emotion Ad
-1278,Control
+1278,Emotion Ad
 1279,Emotion Ad
-1280,Control
-1281,Emotion Ad
-1282,Emotion Ad
-1283,Control
-1284,Reason Ad
-1285,Emotion Ad
+1280,Emotion Ad
+1281,Reason Ad
+1282,Control
+1283,Emotion Ad
+1284,Control
+1285,Reason Ad
 1286,Control
-1287,Reason Ad
-1288,Control
-1289,Control
-1290,Emotion Ad
-1291,Emotion Ad
-1292,Reason Ad
-1293,Control
-1294,Reason Ad
-1295,Reason Ad
-1296,Control
+1287,Emotion Ad
+1288,Emotion Ad
+1289,Reason Ad
+1290,Reason Ad
+1291,Reason Ad
+1292,Emotion Ad
+1293,Reason Ad
+1294,Emotion Ad
+1295,Emotion Ad
+1296,Emotion Ad
 1297,Reason Ad
-1298,Control
+1298,Reason Ad
 1299,Control
-1300,Control
-1301,Reason Ad
-1302,Reason Ad
-1303,Control
-1304,Control
-1305,Reason Ad
-1306,Reason Ad
+1300,Reason Ad
+1301,Emotion Ad
+1302,Emotion Ad
+1303,Emotion Ad
+1304,Reason Ad
+1305,Emotion Ad
+1306,Emotion Ad
 1307,Reason Ad
 1308,Control
 1309,Control
 1310,Reason Ad
 1311,Emotion Ad
-1312,Emotion Ad
+1312,Control
 1313,Control
 1314,Reason Ad
-1315,Control
-1316,Control
-1317,Reason Ad
+1315,Emotion Ad
+1316,Reason Ad
+1317,Control
 1318,Reason Ad
-1319,Emotion Ad
+1319,Control
 1320,Reason Ad
-1321,Control
-1322,Reason Ad
+1321,Reason Ad
+1322,Emotion Ad
 1323,Reason Ad
-1324,Emotion Ad
-1325,Reason Ad
-1326,Reason Ad
+1324,Reason Ad
+1325,Emotion Ad
+1326,Emotion Ad
 1327,Reason Ad
-1328,Reason Ad
-1329,Emotion Ad
-1330,Reason Ad
+1328,Control
+1329,Control
+1330,Control
 1331,Emotion Ad
 1332,Emotion Ad
-1333,Control
-1334,Emotion Ad
-1335,Control
-1336,Control
-1337,Emotion Ad
-1338,Control
+1333,Emotion Ad
+1334,Reason Ad
+1335,Emotion Ad
+1336,Emotion Ad
+1337,Reason Ad
+1338,Reason Ad
 1339,Emotion Ad
-1340,Control
-1341,Control
+1340,Emotion Ad
+1341,Emotion Ad
 1342,Control
-1343,Reason Ad
-1344,Reason Ad
-1345,Emotion Ad
-1346,Reason Ad
-1347,Reason Ad
-1348,Reason Ad
-1349,Emotion Ad
-1350,Control
-1351,Emotion Ad
+1343,Emotion Ad
+1344,Emotion Ad
+1345,Control
+1346,Emotion Ad
+1347,Emotion Ad
+1348,Emotion Ad
+1349,Reason Ad
+1350,Emotion Ad
+1351,Control
 1352,Reason Ad
-1353,Reason Ad
+1353,Emotion Ad
 1354,Reason Ad
-1355,Control
-1356,Control
-1357,Reason Ad
-1358,Reason Ad
+1355,Reason Ad
+1356,Emotion Ad
+1357,Control
+1358,Emotion Ad
 1359,Control
-1360,Reason Ad
-1361,Emotion Ad
-1362,Control
+1360,Control
+1361,Control
+1362,Emotion Ad
 1363,Control
-1364,Emotion Ad
-1365,Emotion Ad
+1364,Control
+1365,Reason Ad
 1366,Control
-1367,Reason Ad
-1368,Control
+1367,Emotion Ad
+1368,Emotion Ad
 1369,Emotion Ad
-1370,Control
-1371,Emotion Ad
-1372,Emotion Ad
-1373,Emotion Ad
-1374,Reason Ad
+1370,Reason Ad
+1371,Reason Ad
+1372,Control
+1373,Reason Ad
+1374,Control
 1375,Emotion Ad
-1376,Control
+1376,Reason Ad
 1377,Emotion Ad
-1378,Control
-1379,Control
-1380,Control
+1378,Emotion Ad
+1379,Reason Ad
+1380,Emotion Ad
 1381,Emotion Ad
-1382,Control
-1383,Emotion Ad
-1384,Control
-1385,Emotion Ad
+1382,Emotion Ad
+1383,Control
+1384,Reason Ad
+1385,Control
 1386,Emotion Ad
-1387,Control
+1387,Emotion Ad
 1388,Reason Ad
 1389,Emotion Ad
-1390,Reason Ad
-1391,Reason Ad
-1392,Reason Ad
-1393,Reason Ad
+1390,Emotion Ad
+1391,Control
+1392,Control
+1393,Emotion Ad
 1394,Emotion Ad
-1395,Control
-1396,Emotion Ad
+1395,Emotion Ad
+1396,Reason Ad
 1397,Reason Ad
-1398,Control
-1399,Emotion Ad
+1398,Emotion Ad
+1399,Reason Ad
 1400,Emotion Ad
-1401,Reason Ad
-1402,Reason Ad
+1401,Control
+1402,Control
 1403,Control
 1404,Reason Ad
-1405,Reason Ad
-1406,Emotion Ad
-1407,Reason Ad
-1408,Reason Ad
-1409,Control
+1405,Emotion Ad
+1406,Reason Ad
+1407,Control
+1408,Control
+1409,Emotion Ad
 1410,Reason Ad
-1411,Reason Ad
+1411,Control
 1412,Emotion Ad
-1413,Emotion Ad
-1414,Reason Ad
+1413,Reason Ad
+1414,Control
 1415,Control
-1416,Control
-1417,Emotion Ad
-1418,Emotion Ad
-1419,Emotion Ad
+1416,Emotion Ad
+1417,Reason Ad
+1418,Reason Ad
+1419,Control
 1420,Reason Ad
-1421,Reason Ad
-1422,Emotion Ad
+1421,Emotion Ad
+1422,Control
 1423,Reason Ad
 1424,Emotion Ad
 1425,Emotion Ad
 1426,Control
-1427,Control
+1427,Reason Ad
 1428,Reason Ad
 1429,Reason Ad
 1430,Emotion Ad
-1431,Control
+1431,Emotion Ad
 1432,Emotion Ad
-1433,Emotion Ad
+1433,Control
 1434,Emotion Ad
-1435,Reason Ad
-1436,Emotion Ad
+1435,Control
+1436,Reason Ad
 1437,Reason Ad
-1438,Control
-1439,Control
-1440,Reason Ad
+1438,Emotion Ad
+1439,Reason Ad
+1440,Control
 1441,Emotion Ad
 1442,Emotion Ad
 1443,Emotion Ad
 1444,Emotion Ad
 1445,Reason Ad
-1446,Reason Ad
-1447,Emotion Ad
+1446,Control
+1447,Reason Ad
 1448,Emotion Ad
-1449,Emotion Ad
-1450,Emotion Ad
+1449,Control
+1450,Reason Ad
 1451,Emotion Ad
-1452,Reason Ad
-1453,Control
+1452,Emotion Ad
+1453,Emotion Ad
 1454,Reason Ad
-1455,Control
+1455,Reason Ad
 1456,Control
-1457,Emotion Ad
-1458,Reason Ad
-1459,Reason Ad
-1460,Emotion Ad
-1461,Reason Ad
+1457,Control
+1458,Emotion Ad
+1459,Control
+1460,Reason Ad
+1461,Emotion Ad
 1462,Reason Ad
-1463,Control
+1463,Reason Ad
 1464,Reason Ad
 1465,Reason Ad
-1466,Reason Ad
-1467,Reason Ad
-1468,Emotion Ad
-1469,Control
-1470,Reason Ad
-1471,Control
-1472,Emotion Ad
-1473,Emotion Ad
-1474,Emotion Ad
+1466,Emotion Ad
+1467,Control
+1468,Reason Ad
+1469,Emotion Ad
+1470,Control
+1471,Reason Ad
+1472,Control
+1473,Control
+1474,Control
 1475,Emotion Ad
-1476,Reason Ad
+1476,Emotion Ad
 1477,Control
-1478,Reason Ad
+1478,Emotion Ad
 1479,Reason Ad
-1480,Reason Ad
+1480,Control
 1481,Control
 1482,Control
 1483,Emotion Ad
 1484,Control
-1485,Reason Ad
+1485,Control
 1486,Emotion Ad
-1487,Emotion Ad
-1488,Control
+1487,Reason Ad
+1488,Emotion Ad
 1489,Control
-1490,Emotion Ad
+1490,Control
 1491,Control
 1492,Control
-1493,Emotion Ad
+1493,Reason Ad
 1494,Emotion Ad
 1495,Control
-1496,Emotion Ad
-1497,Emotion Ad
-1498,Control
+1496,Reason Ad
+1497,Control
+1498,Reason Ad
 1499,Reason Ad
-1500,Emotion Ad
+1500,Control
 1501,Emotion Ad
-1502,Control
+1502,Emotion Ad
 1503,Emotion Ad
-1504,Emotion Ad
-1505,Control
-1506,Reason Ad
-1507,Reason Ad
-1508,Reason Ad
-1509,Emotion Ad
+1504,Reason Ad
+1505,Emotion Ad
+1506,Emotion Ad
+1507,Control
+1508,Control
+1509,Reason Ad
 1510,Control
-1511,Reason Ad
-1512,Emotion Ad
-1513,Control
-1514,Emotion Ad
+1511,Control
+1512,Reason Ad
+1513,Emotion Ad
+1514,Reason Ad
 1515,Reason Ad
-1516,Reason Ad
-1517,Control
+1516,Emotion Ad
+1517,Emotion Ad
 1518,Emotion Ad
-1519,Emotion Ad
-1520,Control
-1521,Control
-1522,Control
-1523,Emotion Ad
+1519,Reason Ad
+1520,Reason Ad
+1521,Emotion Ad
+1522,Emotion Ad
+1523,Reason Ad
 1524,Emotion Ad
-1525,Reason Ad
-1526,Reason Ad
-1527,Emotion Ad
-1528,Reason Ad
+1525,Control
+1526,Control
+1527,Reason Ad
+1528,Emotion Ad
 1529,Emotion Ad
 1530,Emotion Ad
 1531,Emotion Ad
 1532,Reason Ad
-1533,Emotion Ad
+1533,Reason Ad
 1534,Reason Ad
-1535,Reason Ad
-1536,Reason Ad
+1535,Emotion Ad
+1536,Control
 1537,Emotion Ad
-1538,Emotion Ad
-1539,Control
+1538,Control
+1539,Emotion Ad
 1540,Control
-1541,Control
+1541,Emotion Ad
 1542,Control
 1543,Control
-1544,Emotion Ad
-1545,Reason Ad
-1546,Reason Ad
-1547,Control
-1548,Emotion Ad
-1549,Control
-1550,Emotion Ad
-1551,Reason Ad
+1544,Reason Ad
+1545,Emotion Ad
+1546,Emotion Ad
+1547,Reason Ad
+1548,Reason Ad
+1549,Emotion Ad
+1550,Reason Ad
+1551,Emotion Ad
 1552,Emotion Ad
-1553,Reason Ad
-1554,Control
-1555,Control
-1556,Control
+1553,Emotion Ad
+1554,Reason Ad
+1555,Reason Ad
+1556,Emotion Ad
 1557,Reason Ad
-1558,Control
+1558,Emotion Ad
 1559,Emotion Ad
-1560,Reason Ad
-1561,Reason Ad
-1562,Emotion Ad
-1563,Control
-1564,Control
-1565,Emotion Ad
+1560,Emotion Ad
+1561,Control
+1562,Control
+1563,Emotion Ad
+1564,Reason Ad
+1565,Reason Ad
 1566,Emotion Ad
-1567,Control
+1567,Emotion Ad
 1568,Emotion Ad
-1569,Control
+1569,Reason Ad
 1570,Control
-1571,Reason Ad
-1572,Reason Ad
+1571,Emotion Ad
+1572,Emotion Ad
 1573,Reason Ad
-1574,Emotion Ad
+1574,Control
 1575,Emotion Ad
-1576,Emotion Ad
-1577,Control
+1576,Reason Ad
+1577,Reason Ad
 1578,Control
-1579,Reason Ad
+1579,Control
 1580,Emotion Ad
-1581,Emotion Ad
-1582,Emotion Ad
-1583,Emotion Ad
+1581,Control
+1582,Reason Ad
+1583,Control
 1584,Emotion Ad
-1585,Reason Ad
-1586,Emotion Ad
-1587,Emotion Ad
-1588,Emotion Ad
-1589,Emotion Ad
-1590,Reason Ad
+1585,Control
+1586,Reason Ad
+1587,Reason Ad
+1588,Reason Ad
+1589,Control
+1590,Emotion Ad
 1591,Emotion Ad
-1592,Reason Ad
-1593,Reason Ad
-1594,Control
+1592,Emotion Ad
+1593,Control
+1594,Emotion Ad
 1595,Reason Ad
-1596,Reason Ad
+1596,Emotion Ad
 1597,Control
 1598,Control
-1599,Emotion Ad
-1600,Emotion Ad
-1601,Control
-1602,Control
-1603,Control
-1604,Control
-1605,Control
-1606,Control
+1599,Reason Ad
+1600,Control
+1601,Reason Ad
+1602,Reason Ad
+1603,Emotion Ad
+1604,Reason Ad
+1605,Reason Ad
+1606,Reason Ad
 1607,Reason Ad
-1608,Control
-1609,Control
-1610,Control
-1611,Emotion Ad
-1612,Reason Ad
-1613,Reason Ad
+1608,Reason Ad
+1609,Reason Ad
+1610,Emotion Ad
+1611,Control
+1612,Control
+1613,Emotion Ad
 1614,Emotion Ad
 1615,Reason Ad
-1616,Emotion Ad
-1617,Control
-1618,Control
-1619,Control
-1620,Emotion Ad
-1621,Control
-1622,Control
+1616,Reason Ad
+1617,Emotion Ad
+1618,Emotion Ad
+1619,Emotion Ad
+1620,Reason Ad
+1621,Emotion Ad
+1622,Emotion Ad
 1623,Emotion Ad
 1624,Reason Ad
-1625,Emotion Ad
-1626,Reason Ad
+1625,Control
+1626,Control
 1627,Control
-1628,Reason Ad
-1629,Control
-1630,Emotion Ad
-1631,Control
+1628,Emotion Ad
+1629,Emotion Ad
+1630,Control
+1631,Reason Ad
 1632,Control
 1633,Emotion Ad
-1634,Reason Ad
+1634,Control
 1635,Reason Ad
 1636,Emotion Ad
-1637,Reason Ad
-1638,Reason Ad
+1637,Control
+1638,Control
 1639,Reason Ad
-1640,Control
+1640,Reason Ad
 1641,Control
-1642,Emotion Ad
-1643,Reason Ad
-1644,Reason Ad
-1645,Reason Ad
-1646,Control
+1642,Reason Ad
+1643,Control
+1644,Control
+1645,Emotion Ad
+1646,Emotion Ad
 1647,Control
-1648,Control
+1648,Emotion Ad
 1649,Control
 1650,Reason Ad
 1651,Emotion Ad
-1652,Reason Ad
-1653,Reason Ad
+1652,Control
+1653,Emotion Ad
 1654,Emotion Ad
 1655,Emotion Ad
-1656,Control
-1657,Emotion Ad
+1656,Emotion Ad
+1657,Reason Ad
 1658,Control
-1659,Control
-1660,Control
+1659,Emotion Ad
+1660,Emotion Ad
 1661,Emotion Ad
 1662,Emotion Ad
 1663,Reason Ad
-1664,Control
-1665,Reason Ad
-1666,Emotion Ad
-1667,Reason Ad
+1664,Reason Ad
+1665,Emotion Ad
+1666,Reason Ad
+1667,Control
 1668,Reason Ad
-1669,Reason Ad
-1670,Reason Ad
+1669,Control
+1670,Control
 1671,Reason Ad
-1672,Reason Ad
-1673,Emotion Ad
-1674,Emotion Ad
+1672,Emotion Ad
+1673,Control
+1674,Control
 1675,Emotion Ad
 1676,Control
-1677,Control
-1678,Reason Ad
-1679,Control
-1680,Emotion Ad
-1681,Emotion Ad
+1677,Reason Ad
+1678,Control
+1679,Reason Ad
+1680,Control
+1681,Control
 1682,Emotion Ad
-1683,Emotion Ad
-1684,Control
-1685,Control
+1683,Control
+1684,Reason Ad
+1685,Emotion Ad
 1686,Emotion Ad
-1687,Reason Ad
-1688,Emotion Ad
+1687,Control
+1688,Reason Ad
 1689,Reason Ad
 1690,Reason Ad
 1691,Emotion Ad
-1692,Reason Ad
-1693,Reason Ad
+1692,Control
+1693,Emotion Ad
 1694,Emotion Ad
-1695,Reason Ad
+1695,Control
 1696,Reason Ad
-1697,Control
+1697,Reason Ad
 1698,Emotion Ad
-1699,Emotion Ad
-1700,Reason Ad
+1699,Control
+1700,Control
 1701,Reason Ad
-1702,Control
-1703,Reason Ad
-1704,Control
+1702,Emotion Ad
+1703,Control
+1704,Emotion Ad
 1705,Control
 1706,Control
-1707,Reason Ad
+1707,Control
 1708,Reason Ad
-1709,Control
-1710,Control
-1711,Control
-1712,Reason Ad
+1709,Reason Ad
+1710,Reason Ad
+1711,Reason Ad
+1712,Control
 1713,Control
-1714,Reason Ad
+1714,Control
 1715,Emotion Ad
-1716,Control
-1717,Control
+1716,Reason Ad
+1717,Emotion Ad
 1718,Emotion Ad
-1719,Control
+1719,Emotion Ad
 1720,Control
 1721,Control
 1722,Control
-1723,Emotion Ad
-1724,Emotion Ad
-1725,Control
-1726,Emotion Ad
-1727,Emotion Ad
+1723,Control
+1724,Control
+1725,Emotion Ad
+1726,Reason Ad
+1727,Reason Ad
 1728,Control
-1729,Emotion Ad
-1730,Control
-1731,Emotion Ad
-1732,Control
+1729,Control
+1730,Emotion Ad
+1731,Control
+1732,Reason Ad
 1733,Reason Ad
 1734,Emotion Ad
-1735,Reason Ad
-1736,Control
-1737,Emotion Ad
+1735,Emotion Ad
+1736,Emotion Ad
+1737,Control
 1738,Reason Ad
 1739,Emotion Ad
 1740,Control
-1741,Emotion Ad
+1741,Control
 1742,Emotion Ad
 1743,Reason Ad
 1744,Control
 1745,Control
-1746,Reason Ad
-1747,Reason Ad
-1748,Emotion Ad
-1749,Reason Ad
-1750,Control
-1751,Reason Ad
+1746,Emotion Ad
+1747,Emotion Ad
+1748,Control
+1749,Emotion Ad
+1750,Emotion Ad
+1751,Control
 1752,Control
 1753,Emotion Ad
-1754,Reason Ad
+1754,Control
 1755,Control
-1756,Reason Ad
-1757,Emotion Ad
-1758,Emotion Ad
+1756,Emotion Ad
+1757,Control
+1758,Control
 1759,Reason Ad
-1760,Emotion Ad
-1761,Control
-1762,Reason Ad
-1763,Control
-1764,Control
+1760,Reason Ad
+1761,Emotion Ad
+1762,Emotion Ad
+1763,Reason Ad
+1764,Reason Ad
 1765,Emotion Ad
-1766,Emotion Ad
-1767,Emotion Ad
+1766,Control
+1767,Control
 1768,Control
 1769,Reason Ad
-1770,Reason Ad
+1770,Control
 1771,Control
 1772,Emotion Ad
 1773,Reason Ad
 1774,Reason Ad
 1775,Emotion Ad
-1776,Control
-1777,Reason Ad
-1778,Control
-1779,Control
-1780,Reason Ad
+1776,Emotion Ad
+1777,Emotion Ad
+1778,Emotion Ad
+1779,Emotion Ad
+1780,Emotion Ad
 1781,Emotion Ad
-1782,Emotion Ad
+1782,Control
 1783,Reason Ad
 1784,Control
-1785,Control
-1786,Emotion Ad
-1787,Emotion Ad
-1788,Control
-1789,Emotion Ad
+1785,Reason Ad
+1786,Control
+1787,Reason Ad
+1788,Emotion Ad
+1789,Reason Ad
 1790,Emotion Ad
-1791,Control
+1791,Emotion Ad
 1792,Reason Ad
-1793,Emotion Ad
-1794,Reason Ad
-1795,Reason Ad
-1796,Reason Ad
-1797,Reason Ad
-1798,Control
-1799,Control
-1800,Emotion Ad
+1793,Reason Ad
+1794,Emotion Ad
+1795,Control
+1796,Emotion Ad
+1797,Control
+1798,Reason Ad
+1799,Reason Ad
+1800,Reason Ad
 1801,Control
 1802,Reason Ad
 1803,Emotion Ad
 1804,Emotion Ad
-1805,Emotion Ad
+1805,Reason Ad
 1806,Reason Ad
-1807,Emotion Ad
-1808,Reason Ad
-1809,Control
-1810,Emotion Ad
+1807,Reason Ad
+1808,Control
+1809,Emotion Ad
+1810,Reason Ad
 1811,Emotion Ad
-1812,Emotion Ad
+1812,Reason Ad
 1813,Reason Ad
-1814,Reason Ad
-1815,Control
-1816,Control
-1817,Reason Ad
-1818,Control
-1819,Control
-1820,Emotion Ad
-1821,Reason Ad
-1822,Control
-1823,Reason Ad
-1824,Reason Ad
+1814,Control
+1815,Emotion Ad
+1816,Emotion Ad
+1817,Control
+1818,Reason Ad
+1819,Emotion Ad
+1820,Reason Ad
+1821,Emotion Ad
+1822,Reason Ad
+1823,Emotion Ad
+1824,Control
 1825,Control
 1826,Emotion Ad
 1827,Emotion Ad
-1828,Emotion Ad
+1828,Control
 1829,Control
-1830,Reason Ad
-1831,Reason Ad
+1830,Control
+1831,Emotion Ad
 1832,Emotion Ad
-1833,Control
-1834,Reason Ad
-1835,Control
-1836,Control
+1833,Reason Ad
+1834,Control
+1835,Reason Ad
+1836,Reason Ad
 1837,Emotion Ad
-1838,Control
-1839,Emotion Ad
-1840,Emotion Ad
+1838,Emotion Ad
+1839,Control
+1840,Reason Ad
 1841,Emotion Ad
-1842,Reason Ad
-1843,Reason Ad
+1842,Control
+1843,Emotion Ad
 1844,Emotion Ad
-1845,Control
+1845,Emotion Ad
 1846,Reason Ad
-1847,Control
+1847,Emotion Ad
 1848,Emotion Ad
-1849,Control
-1850,Emotion Ad
+1849,Emotion Ad
+1850,Control
 1851,Emotion Ad
-1852,Emotion Ad
+1852,Reason Ad
 1853,Reason Ad
 1854,Reason Ad
-1855,Reason Ad
-1856,Emotion Ad
+1855,Control
+1856,Control
 1857,Emotion Ad
 1858,Control
 1859,Control
-1860,Reason Ad
-1861,Emotion Ad
-1862,Emotion Ad
-1863,Reason Ad
-1864,Emotion Ad
-1865,Reason Ad
-1866,Control
+1860,Emotion Ad
+1861,Reason Ad
+1862,Control
+1863,Control
+1864,Control
+1865,Emotion Ad
+1866,Emotion Ad
 1867,Reason Ad
-1868,Reason Ad
+1868,Emotion Ad
 1869,Reason Ad
-1870,Control
-1871,Reason Ad
-1872,Control
-1873,Emotion Ad
-1874,Emotion Ad
+1870,Emotion Ad
+1871,Emotion Ad
+1872,Emotion Ad
+1873,Control
+1874,Control
 1875,Emotion Ad
-1876,Reason Ad
-1877,Control
-1878,Control
-1879,Emotion Ad
+1876,Control
+1877,Reason Ad
+1878,Emotion Ad
+1879,Control
 1880,Reason Ad
-1881,Reason Ad
-1882,Emotion Ad
-1883,Control
-1884,Control
+1881,Emotion Ad
+1882,Control
+1883,Emotion Ad
+1884,Reason Ad
 1885,Emotion Ad
-1886,Reason Ad
-1887,Control
-1888,Control
-1889,Control
+1886,Emotion Ad
+1887,Emotion Ad
+1888,Reason Ad
+1889,Reason Ad
 1890,Reason Ad
-1891,Emotion Ad
-1892,Reason Ad
-1893,Emotion Ad
-1894,Emotion Ad
-1895,Reason Ad
-1896,Emotion Ad
+1891,Reason Ad
+1892,Emotion Ad
+1893,Control
+1894,Reason Ad
+1895,Control
+1896,Reason Ad
 1897,Reason Ad
-1898,Emotion Ad
+1898,Control
 1899,Control
-1900,Control
-1901,Control
-1902,Emotion Ad
+1900,Reason Ad
+1901,Reason Ad
+1902,Reason Ad
 1903,Control
-1904,Control
-1905,Reason Ad
-1906,Emotion Ad
-1907,Control
+1904,Emotion Ad
+1905,Control
+1906,Control
+1907,Emotion Ad
 1908,Emotion Ad
-1909,Control
-1910,Reason Ad
+1909,Emotion Ad
+1910,Control
 1911,Reason Ad
 1912,Emotion Ad
-1913,Reason Ad
+1913,Control
 1914,Reason Ad
-1915,Control
-1916,Emotion Ad
-1917,Control
+1915,Emotion Ad
+1916,Control
+1917,Reason Ad
 1918,Reason Ad
-1919,Control
+1919,Emotion Ad
 1920,Emotion Ad
-1921,Emotion Ad
-1922,Reason Ad
-1923,Control
+1921,Control
+1922,Control
+1923,Reason Ad
 1924,Reason Ad
-1925,Reason Ad
-1926,Reason Ad
-1927,Reason Ad
-1928,Control
+1925,Control
+1926,Emotion Ad
+1927,Emotion Ad
+1928,Reason Ad
 1929,Reason Ad
-1930,Emotion Ad
+1930,Control
 1931,Reason Ad
 1932,Reason Ad
-1933,Reason Ad
+1933,Emotion Ad
 1934,Emotion Ad
 1935,Reason Ad
 1936,Emotion Ad
-1937,Control
+1937,Reason Ad
 1938,Reason Ad
 1939,Control
-1940,Reason Ad
-1941,Reason Ad
+1940,Control
+1941,Emotion Ad
 1942,Control
-1943,Control
-1944,Emotion Ad
-1945,Emotion Ad
-1946,Reason Ad
-1947,Reason Ad
-1948,Emotion Ad
-1949,Reason Ad
+1943,Reason Ad
+1944,Control
+1945,Reason Ad
+1946,Control
+1947,Control
+1948,Reason Ad
+1949,Emotion Ad
 1950,Emotion Ad
-1951,Control
-1952,Reason Ad
-1953,Reason Ad
+1951,Emotion Ad
+1952,Emotion Ad
+1953,Emotion Ad
 1954,Control
-1955,Emotion Ad
-1956,Reason Ad
-1957,Emotion Ad
+1955,Control
+1956,Control
+1957,Reason Ad
 1958,Emotion Ad
-1959,Control
-1960,Emotion Ad
+1959,Emotion Ad
+1960,Reason Ad
 1961,Reason Ad
-1962,Emotion Ad
-1963,Emotion Ad
-1964,Control
+1962,Control
+1963,Control
+1964,Reason Ad
 1965,Control
-1966,Emotion Ad
-1967,Emotion Ad
-1968,Reason Ad
-1969,Control
-1970,Control
-1971,Emotion Ad
-1972,Emotion Ad
-1973,Reason Ad
-1974,Control
+1966,Reason Ad
+1967,Reason Ad
+1968,Control
+1969,Emotion Ad
+1970,Reason Ad
+1971,Control
+1972,Control
+1973,Control
+1974,Reason Ad
 1975,Reason Ad
-1976,Control
+1976,Reason Ad
 1977,Emotion Ad
 1978,Control
-1979,Control
-1980,Control
-1981,Emotion Ad
-1982,Control
-1983,Emotion Ad
+1979,Reason Ad
+1980,Emotion Ad
+1981,Control
+1982,Emotion Ad
+1983,Reason Ad
 1984,Emotion Ad
-1985,Reason Ad
+1985,Control
 1986,Emotion Ad
-1987,Reason Ad
+1987,Emotion Ad
 1988,Reason Ad
 1989,Control
-1990,Emotion Ad
+1990,Control
 1991,Emotion Ad
 1992,Control
-1993,Emotion Ad
-1994,Control
-1995,Control
+1993,Reason Ad
+1994,Emotion Ad
+1995,Reason Ad
 1996,Control
-1997,Reason Ad
+1997,Control
 1998,Reason Ad
-1999,Control
+1999,Reason Ad
 2000,Reason Ad
-2001,Reason Ad
+2001,Emotion Ad
 2002,Control
-2003,Emotion Ad
-2004,Control
-2005,Emotion Ad
+2003,Reason Ad
+2004,Reason Ad
+2005,Control
 2006,Reason Ad
-2007,Emotion Ad
-2008,Control
-2009,Control
+2007,Reason Ad
+2008,Reason Ad
+2009,Reason Ad
 2010,Reason Ad
-2011,Control
+2011,Emotion Ad
 2012,Emotion Ad
-2013,Control
-2014,Emotion Ad
-2015,Reason Ad
+2013,Reason Ad
+2014,Reason Ad
+2015,Control
 2016,Emotion Ad
-2017,Emotion Ad
-2018,Reason Ad
-2019,Reason Ad
+2017,Control
+2018,Control
+2019,Control
 2020,Reason Ad
-2021,Control
+2021,Emotion Ad
 2022,Emotion Ad
-2023,Control
-2024,Control
+2023,Reason Ad
+2024,Emotion Ad
 2025,Reason Ad
 2026,Control
-2027,Control
-2028,Control
-2029,Control
-2030,Control
-2031,Control
-2032,Reason Ad
+2027,Emotion Ad
+2028,Emotion Ad
+2029,Emotion Ad
+2030,Emotion Ad
+2031,Reason Ad
+2032,Control
 2033,Control
-2034,Emotion Ad
-2035,Emotion Ad
+2034,Reason Ad
+2035,Control
 2036,Reason Ad
-2037,Control
+2037,Reason Ad
 2038,Reason Ad
-2039,Reason Ad
-2040,Control
+2039,Emotion Ad
+2040,Emotion Ad
 2041,Reason Ad
-2042,Control
+2042,Reason Ad
 2043,Emotion Ad
 2044,Emotion Ad
-2045,Emotion Ad
+2045,Reason Ad
 2046,Emotion Ad
 2047,Control
-2048,Emotion Ad
-2049,Reason Ad
-2050,Emotion Ad
+2048,Control
+2049,Control
+2050,Control
 2051,Reason Ad
-2052,Reason Ad
+2052,Emotion Ad
 2053,Control
 2054,Reason Ad
-2055,Reason Ad
-2056,Control
-2057,Reason Ad
-2058,Reason Ad
-2059,Emotion Ad
+2055,Emotion Ad
+2056,Emotion Ad
+2057,Emotion Ad
+2058,Control
+2059,Control
 2060,Emotion Ad
-2061,Control
-2062,Reason Ad
-2063,Control
+2061,Reason Ad
+2062,Control
+2063,Emotion Ad
 2064,Control
-2065,Emotion Ad
-2066,Control
-2067,Emotion Ad
-2068,Emotion Ad
-2069,Control
-2070,Reason Ad
+2065,Control
+2066,Reason Ad
+2067,Control
+2068,Reason Ad
+2069,Emotion Ad
+2070,Control
 2071,Control
 2072,Reason Ad
-2073,Emotion Ad
-2074,Emotion Ad
+2073,Control
+2074,Control
 2075,Emotion Ad
-2076,Control
-2077,Emotion Ad
-2078,Reason Ad
-2079,Reason Ad
-2080,Emotion Ad
+2076,Reason Ad
+2077,Control
+2078,Emotion Ad
+2079,Control
+2080,Control
 2081,Emotion Ad
 2082,Emotion Ad
 2083,Reason Ad
 2084,Reason Ad
-2085,Control
+2085,Reason Ad
 2086,Control
-2087,Reason Ad
-2088,Reason Ad
-2089,Control
+2087,Emotion Ad
+2088,Emotion Ad
+2089,Reason Ad
 2090,Emotion Ad
 2091,Reason Ad
 2092,Emotion Ad
-2093,Emotion Ad
-2094,Emotion Ad
-2095,Emotion Ad
-2096,Control
-2097,Emotion Ad
+2093,Control
+2094,Control
+2095,Control
+2096,Emotion Ad
+2097,Control
 2098,Reason Ad
-2099,Reason Ad
-2100,Reason Ad
-2101,Control
-2102,Reason Ad
+2099,Emotion Ad
+2100,Control
+2101,Reason Ad
+2102,Emotion Ad
 2103,Emotion Ad
-2104,Control
-2105,Reason Ad
-2106,Reason Ad
-2107,Control
+2104,Reason Ad
+2105,Emotion Ad
+2106,Control
+2107,Emotion Ad
 2108,Control
-2109,Control
-2110,Emotion Ad
-2111,Control
-2112,Control
-2113,Emotion Ad
-2114,Control
-2115,Control
+2109,Reason Ad
+2110,Control
+2111,Emotion Ad
+2112,Reason Ad
+2113,Reason Ad
+2114,Emotion Ad
+2115,Emotion Ad
 2116,Control
 2117,Control
-2118,Control
-2119,Emotion Ad
+2118,Emotion Ad
+2119,Reason Ad
 2120,Reason Ad
 2121,Control
-2122,Emotion Ad
+2122,Reason Ad
 2123,Emotion Ad
-2124,Emotion Ad
-2125,Reason Ad
-2126,Emotion Ad
+2124,Control
+2125,Emotion Ad
+2126,Control
 2127,Control
-2128,Emotion Ad
-2129,Emotion Ad
+2128,Reason Ad
+2129,Reason Ad
 2130,Control
-2131,Reason Ad
+2131,Emotion Ad
 2132,Emotion Ad
-2133,Reason Ad
-2134,Emotion Ad
-2135,Emotion Ad
-2136,Emotion Ad
-2137,Emotion Ad
+2133,Control
+2134,Control
+2135,Reason Ad
+2136,Reason Ad
+2137,Reason Ad
 2138,Control
-2139,Reason Ad
-2140,Control
-2141,Control
+2139,Emotion Ad
+2140,Emotion Ad
+2141,Reason Ad
 2142,Control
-2143,Emotion Ad
-2144,Control
-2145,Emotion Ad
+2143,Reason Ad
+2144,Emotion Ad
+2145,Control
 2146,Reason Ad
-2147,Emotion Ad
-2148,Emotion Ad
+2147,Reason Ad
+2148,Reason Ad
 2149,Control
-2150,Control
-2151,Control
+2150,Emotion Ad
+2151,Reason Ad
 2152,Reason Ad
-2153,Emotion Ad
-2154,Emotion Ad
-2155,Reason Ad
-2156,Emotion Ad
-2157,Reason Ad
-2158,Emotion Ad
-2159,Reason Ad
+2153,Control
+2154,Reason Ad
+2155,Control
+2156,Reason Ad
+2157,Control
+2158,Reason Ad
+2159,Control
 2160,Control
-2161,Control
+2161,Reason Ad
 2162,Reason Ad
-2163,Reason Ad
-2164,Reason Ad
+2163,Control
+2164,Emotion Ad
 2165,Emotion Ad
-2166,Emotion Ad
+2166,Control
 2167,Control
-2168,Emotion Ad
-2169,Control
-2170,Control
-2171,Emotion Ad
+2168,Reason Ad
+2169,Emotion Ad
+2170,Reason Ad
+2171,Control
 2172,Emotion Ad
-2173,Emotion Ad
-2174,Emotion Ad
-2175,Emotion Ad
+2173,Reason Ad
+2174,Reason Ad
+2175,Reason Ad
 2176,Reason Ad
 2177,Reason Ad
-2178,Reason Ad
-2179,Reason Ad
-2180,Control
-2181,Emotion Ad
-2182,Reason Ad
+2178,Emotion Ad
+2179,Control
+2180,Emotion Ad
+2181,Reason Ad
+2182,Emotion Ad
 2183,Control
-2184,Control
-2185,Reason Ad
-2186,Reason Ad
+2184,Reason Ad
+2185,Control
+2186,Emotion Ad
 2187,Emotion Ad
-2188,Emotion Ad
-2189,Emotion Ad
-2190,Control
-2191,Emotion Ad
+2188,Control
+2189,Control
+2190,Reason Ad
+2191,Control
 2192,Emotion Ad
-2193,Control
+2193,Emotion Ad
 2194,Reason Ad
-2195,Emotion Ad
-2196,Emotion Ad
+2195,Control
+2196,Control
 2197,Control
-2198,Reason Ad
-2199,Control
+2198,Emotion Ad
+2199,Emotion Ad
 2200,Emotion Ad
-2201,Reason Ad
+2201,Control
 2202,Reason Ad
-2203,Control
-2204,Emotion Ad
-2205,Emotion Ad
-2206,Control
-2207,Control
+2203,Reason Ad
+2204,Control
+2205,Control
+2206,Emotion Ad
+2207,Emotion Ad
 2208,Reason Ad
-2209,Control
+2209,Emotion Ad
 2210,Control
-2211,Control
-2212,Control
-2213,Emotion Ad
-2214,Control
+2211,Emotion Ad
+2212,Reason Ad
+2213,Reason Ad
+2214,Emotion Ad
 2215,Emotion Ad
-2216,Emotion Ad
-2217,Emotion Ad
-2218,Control
+2216,Control
+2217,Control
+2218,Reason Ad
 2219,Emotion Ad
 2220,Emotion Ad
-2221,Emotion Ad
-2222,Control
-2223,Emotion Ad
+2221,Reason Ad
+2222,Emotion Ad
+2223,Control
 2224,Reason Ad
 2225,Control
-2226,Emotion Ad
-2227,Emotion Ad
-2228,Emotion Ad
+2226,Reason Ad
+2227,Reason Ad
+2228,Control
 2229,Emotion Ad
 2230,Reason Ad
-2231,Reason Ad
-2232,Control
+2231,Control
+2232,Reason Ad
 2233,Control
-2234,Emotion Ad
-2235,Reason Ad
+2234,Control
+2235,Emotion Ad
 2236,Emotion Ad
-2237,Control
-2238,Reason Ad
-2239,Reason Ad
-2240,Emotion Ad
+2237,Emotion Ad
+2238,Emotion Ad
+2239,Emotion Ad
+2240,Reason Ad
 2241,Reason Ad
 2242,Emotion Ad
 2243,Emotion Ad
-2244,Emotion Ad
-2245,Emotion Ad
+2244,Reason Ad
+2245,Control
 2246,Control
 2247,Reason Ad
-2248,Reason Ad
-2249,Emotion Ad
-2250,Reason Ad
+2248,Control
+2249,Control
+2250,Emotion Ad
 2251,Reason Ad
 2252,Reason Ad
 2253,Reason Ad
 2254,Reason Ad
-2255,Control
-2256,Control
+2255,Emotion Ad
+2256,Reason Ad
 2257,Control
 2258,Emotion Ad
 2259,Control
-2260,Emotion Ad
+2260,Control
 2261,Reason Ad
-2262,Control
-2263,Control
-2264,Reason Ad
-2265,Control
+2262,Emotion Ad
+2263,Reason Ad
+2264,Emotion Ad
+2265,Reason Ad
 2266,Emotion Ad
-2267,Control
+2267,Emotion Ad
 2268,Control
 2269,Control
 2270,Emotion Ad
-2271,Control
-2272,Control
+2271,Reason Ad
+2272,Reason Ad
 2273,Emotion Ad
-2274,Reason Ad
+2274,Emotion Ad
 2275,Control
 2276,Control
-2277,Reason Ad
+2277,Control
 2278,Control
-2279,Emotion Ad
-2280,Emotion Ad
+2279,Reason Ad
+2280,Control
 2281,Emotion Ad
-2282,Control
-2283,Reason Ad
+2282,Emotion Ad
+2283,Emotion Ad
 2284,Emotion Ad
-2285,Emotion Ad
-2286,Emotion Ad
-2287,Control
-2288,Control
-2289,Reason Ad
+2285,Reason Ad
+2286,Reason Ad
+2287,Reason Ad
+2288,Emotion Ad
+2289,Control
 2290,Reason Ad
 2291,Emotion Ad
-2292,Reason Ad
-2293,Reason Ad
-2294,Emotion Ad
+2292,Emotion Ad
+2293,Control
+2294,Control
 2295,Reason Ad
-2296,Emotion Ad
-2297,Emotion Ad
-2298,Emotion Ad
-2299,Control
-2300,Reason Ad
+2296,Control
+2297,Control
+2298,Control
+2299,Reason Ad
+2300,Control
 2301,Control
-2302,Control
-2303,Control
-2304,Control
-2305,Emotion Ad
-2306,Reason Ad
-2307,Emotion Ad
-2308,Emotion Ad
-2309,Control
-2310,Reason Ad
-2311,Emotion Ad
-2312,Emotion Ad
+2302,Emotion Ad
+2303,Reason Ad
+2304,Reason Ad
+2305,Reason Ad
+2306,Control
+2307,Control
+2308,Control
+2309,Emotion Ad
+2310,Control
+2311,Reason Ad
+2312,Reason Ad
 2313,Reason Ad
-2314,Reason Ad
-2315,Control
-2316,Control
-2317,Emotion Ad
-2318,Control
-2319,Emotion Ad
-2320,Emotion Ad
-2321,Reason Ad
-2322,Reason Ad
-2323,Control
-2324,Reason Ad
-2325,Control
-2326,Emotion Ad
-2327,Reason Ad
-2328,Reason Ad
-2329,Reason Ad
-2330,Reason Ad
+2314,Control
+2315,Reason Ad
+2316,Reason Ad
+2317,Reason Ad
+2318,Emotion Ad
+2319,Control
+2320,Control
+2321,Emotion Ad
+2322,Emotion Ad
+2323,Emotion Ad
+2324,Emotion Ad
+2325,Reason Ad
+2326,Reason Ad
+2327,Control
+2328,Control
+2329,Emotion Ad
+2330,Control
 2331,Control
-2332,Emotion Ad
-2333,Reason Ad
-2334,Emotion Ad
-2335,Emotion Ad
-2336,Reason Ad
-2337,Emotion Ad
-2338,Control
-2339,Emotion Ad
+2332,Control
+2333,Control
+2334,Reason Ad
+2335,Reason Ad
+2336,Control
+2337,Reason Ad
+2338,Emotion Ad
+2339,Control
 2340,Emotion Ad
 2341,Control
 2342,Emotion Ad
-2343,Control
-2344,Control
-2345,Control
-2346,Control
-2347,Control
+2343,Reason Ad
+2344,Emotion Ad
+2345,Reason Ad
+2346,Reason Ad
+2347,Reason Ad
 2348,Reason Ad
-2349,Control
+2349,Reason Ad
 2350,Control
 2351,Reason Ad
-2352,Emotion Ad
-2353,Emotion Ad
-2354,Control
-2355,Reason Ad
-2356,Emotion Ad
-2357,Reason Ad
-2358,Emotion Ad
-2359,Control
+2352,Reason Ad
+2353,Control
+2354,Emotion Ad
+2355,Emotion Ad
+2356,Control
+2357,Control
+2358,Control
+2359,Emotion Ad
 2360,Reason Ad
-2361,Control
+2361,Emotion Ad
 2362,Emotion Ad
-2363,Emotion Ad
-2364,Emotion Ad
+2363,Control
+2364,Reason Ad
 2365,Reason Ad
-2366,Emotion Ad
-2367,Emotion Ad
-2368,Control
-2369,Reason Ad
-2370,Emotion Ad
-2371,Reason Ad
-2372,Control
-2373,Emotion Ad
+2366,Control
+2367,Control
+2368,Emotion Ad
+2369,Control
+2370,Control
+2371,Control
+2372,Reason Ad
+2373,Reason Ad
 2374,Reason Ad
 2375,Control
-2376,Emotion Ad
-2377,Reason Ad
-2378,Emotion Ad
-2379,Emotion Ad
+2376,Control
+2377,Emotion Ad
+2378,Reason Ad
+2379,Reason Ad
 2380,Control
-2381,Emotion Ad
+2381,Control
 2382,Reason Ad
-2383,Reason Ad
+2383,Emotion Ad
 2384,Emotion Ad
 2385,Control
-2386,Reason Ad
-2387,Reason Ad
+2386,Emotion Ad
+2387,Emotion Ad
 2388,Emotion Ad
-2389,Reason Ad
-2390,Reason Ad
+2389,Emotion Ad
+2390,Control
 2391,Reason Ad
-2392,Control
-2393,Control
-2394,Emotion Ad
-2395,Emotion Ad
-2396,Emotion Ad
+2392,Emotion Ad
+2393,Reason Ad
+2394,Control
+2395,Control
+2396,Reason Ad
 2397,Control
-2398,Reason Ad
-2399,Emotion Ad
-2400,Reason Ad
+2398,Emotion Ad
+2399,Reason Ad
+2400,Emotion Ad
 2401,Control
-2402,Reason Ad
+2402,Emotion Ad
 2403,Reason Ad
 2404,Emotion Ad
-2405,Emotion Ad
-2406,Control
+2405,Reason Ad
+2406,Emotion Ad
 2407,Reason Ad
-2408,Control
-2409,Emotion Ad
+2408,Emotion Ad
+2409,Control
 2410,Emotion Ad
-2411,Control
-2412,Control
-2413,Reason Ad
+2411,Reason Ad
+2412,Emotion Ad
+2413,Control
 2414,Control
-2415,Reason Ad
+2415,Emotion Ad
 2416,Control
-2417,Emotion Ad
-2418,Reason Ad
+2417,Reason Ad
+2418,Control
 2419,Control
 2420,Control
-2421,Control
-2422,Emotion Ad
-2423,Control
-2424,Emotion Ad
+2421,Emotion Ad
+2422,Reason Ad
+2423,Emotion Ad
+2424,Reason Ad
 2425,Control
-2426,Control
+2426,Reason Ad
 2427,Reason Ad
-2428,Emotion Ad
-2429,Reason Ad
-2430,Reason Ad
+2428,Control
+2429,Control
+2430,Control
 2431,Reason Ad
 2432,Emotion Ad
-2433,Emotion Ad
-2434,Emotion Ad
+2433,Reason Ad
+2434,Control
 2435,Reason Ad
-2436,Control
-2437,Reason Ad
+2436,Emotion Ad
+2437,Control
 2438,Control
-2439,Control
-2440,Emotion Ad
-2441,Control
-2442,Reason Ad
-2443,Reason Ad
-2444,Reason Ad
-2445,Emotion Ad
+2439,Emotion Ad
+2440,Control
+2441,Emotion Ad
+2442,Control
+2443,Emotion Ad
+2444,Control
+2445,Reason Ad
 2446,Control
 2447,Control
 2448,Emotion Ad
-2449,Reason Ad
-2450,Emotion Ad
+2449,Emotion Ad
+2450,Control
 2451,Control
-2452,Control
-2453,Control
-2454,Reason Ad
+2452,Reason Ad
+2453,Emotion Ad
+2454,Control
 2455,Control
 2456,Emotion Ad
-2457,Reason Ad
-2458,Emotion Ad
+2457,Emotion Ad
+2458,Control
 2459,Emotion Ad
 2460,Reason Ad
 2461,Emotion Ad
 2462,Reason Ad
-2463,Emotion Ad
-2464,Control
+2463,Reason Ad
+2464,Reason Ad
 2465,Emotion Ad
-2466,Control
+2466,Reason Ad
 2467,Control
-2468,Emotion Ad
+2468,Reason Ad
 2469,Emotion Ad
 2470,Reason Ad
-2471,Control
-2472,Emotion Ad
-2473,Emotion Ad
+2471,Reason Ad
+2472,Control
+2473,Reason Ad
 2474,Reason Ad
-2475,Control
-2476,Reason Ad
-2477,Control
-2478,Reason Ad
-2479,Control
-2480,Control
-2481,Control
-2482,Reason Ad
+2475,Reason Ad
+2476,Emotion Ad
+2477,Emotion Ad
+2478,Emotion Ad
+2479,Emotion Ad
+2480,Reason Ad
+2481,Reason Ad
+2482,Emotion Ad
 2483,Control
 2484,Reason Ad
-2485,Reason Ad
-2486,Emotion Ad
-2487,Emotion Ad
-2488,Control
-2489,Control
-2490,Emotion Ad
-2491,Reason Ad
-2492,Reason Ad
+2485,Emotion Ad
+2486,Control
+2487,Control
+2488,Reason Ad
+2489,Reason Ad
+2490,Reason Ad
+2491,Control
+2492,Emotion Ad
 2493,Reason Ad
-2494,Reason Ad
-2495,Reason Ad
-2496,Control
-2497,Reason Ad
+2494,Emotion Ad
+2495,Emotion Ad
+2496,Reason Ad
+2497,Control
 2498,Reason Ad
-2499,Reason Ad
-2500,Control
-2501,Emotion Ad
-2502,Reason Ad
-2503,Reason Ad
-2504,Control
-2505,Control
+2499,Emotion Ad
+2500,Emotion Ad
+2501,Control
+2502,Control
+2503,Emotion Ad
+2504,Reason Ad
+2505,Emotion Ad
 2506,Reason Ad
-2507,Emotion Ad
-2508,Reason Ad
-2509,Control
-2510,Control
-2511,Reason Ad
+2507,Reason Ad
+2508,Emotion Ad
+2509,Emotion Ad
+2510,Emotion Ad
+2511,Emotion Ad
 2512,Reason Ad
-2513,Emotion Ad
-2514,Reason Ad
-2515,Reason Ad
-2516,Emotion Ad
-2517,Reason Ad
-2518,Control
-2519,Emotion Ad
-2520,Control
-2521,Control
-2522,Emotion Ad
-2523,Reason Ad
+2513,Control
+2514,Control
+2515,Emotion Ad
+2516,Reason Ad
+2517,Emotion Ad
+2518,Emotion Ad
+2519,Control
+2520,Emotion Ad
+2521,Emotion Ad
+2522,Reason Ad
+2523,Control
 2524,Control
-2525,Control
+2525,Reason Ad
 2526,Reason Ad
-2527,Reason Ad
-2528,Emotion Ad
+2527,Control
+2528,Reason Ad
 2529,Emotion Ad
-2530,Reason Ad
-2531,Emotion Ad
-2532,Reason Ad
-2533,Control
-2534,Reason Ad
+2530,Control
+2531,Control
+2532,Emotion Ad
+2533,Emotion Ad
+2534,Emotion Ad
 2535,Control
 2536,Emotion Ad
 2537,Emotion Ad
-2538,Reason Ad
-2539,Control
+2538,Control
+2539,Emotion Ad
 2540,Emotion Ad
-2541,Emotion Ad
+2541,Control
 2542,Control
-2543,Reason Ad
-2544,Emotion Ad
-2545,Emotion Ad
+2543,Emotion Ad
+2544,Reason Ad
+2545,Control
 2546,Emotion Ad
-2547,Emotion Ad
-2548,Control
-2549,Control
-2550,Reason Ad
-2551,Control
-2552,Emotion Ad
+2547,Control
+2548,Reason Ad
+2549,Emotion Ad
+2550,Emotion Ad
+2551,Emotion Ad
+2552,Control
 2553,Emotion Ad
 2554,Reason Ad
-2555,Control
-2556,Control
-2557,Control
-2558,Control
+2555,Reason Ad
+2556,Emotion Ad
+2557,Reason Ad
+2558,Reason Ad
 2559,Reason Ad
-2560,Emotion Ad
-2561,Reason Ad
+2560,Control
+2561,Control
 2562,Emotion Ad
-2563,Emotion Ad
-2564,Control
+2563,Control
+2564,Reason Ad
 2565,Emotion Ad
-2566,Reason Ad
-2567,Control
-2568,Emotion Ad
+2566,Control
+2567,Emotion Ad
+2568,Reason Ad
 2569,Control
 2570,Emotion Ad
 2571,Control
-2572,Reason Ad
-2573,Emotion Ad
+2572,Control
+2573,Control
 2574,Reason Ad
 2575,Emotion Ad
 2576,Reason Ad
-2577,Emotion Ad
-2578,Control
-2579,Emotion Ad
-2580,Emotion Ad
+2577,Reason Ad
+2578,Reason Ad
+2579,Reason Ad
+2580,Reason Ad
 2581,Reason Ad
 2582,Emotion Ad
-2583,Emotion Ad
-2584,Control
-2585,Control
-2586,Emotion Ad
-2587,Reason Ad
+2583,Reason Ad
+2584,Emotion Ad
+2585,Reason Ad
+2586,Reason Ad
+2587,Control
 2588,Emotion Ad
-2589,Control
+2589,Emotion Ad
 2590,Emotion Ad
-2591,Reason Ad
-2592,Emotion Ad
-2593,Control
-2594,Emotion Ad
-2595,Control
-2596,Emotion Ad
+2591,Control
+2592,Reason Ad
+2593,Reason Ad
+2594,Control
+2595,Emotion Ad
+2596,Control
 2597,Control
-2598,Emotion Ad
-2599,Control
-2600,Emotion Ad
-2601,Control
-2602,Reason Ad
+2598,Control
+2599,Reason Ad
+2600,Control
+2601,Emotion Ad
+2602,Emotion Ad
 2603,Control
-2604,Control
+2604,Reason Ad
 2605,Reason Ad
 2606,Reason Ad
-2607,Reason Ad
-2608,Control
-2609,Emotion Ad
-2610,Control
-2611,Control
+2607,Control
+2608,Reason Ad
+2609,Reason Ad
+2610,Reason Ad
+2611,Emotion Ad
 2612,Emotion Ad
-2613,Emotion Ad
-2614,Emotion Ad
-2615,Reason Ad
+2613,Reason Ad
+2614,Reason Ad
+2615,Control
 2616,Control
 2617,Control
 2618,Reason Ad
 2619,Control
 2620,Reason Ad
-2621,Reason Ad
-2622,Control
+2621,Emotion Ad
+2622,Emotion Ad
 2623,Control
 2624,Control
-2625,Emotion Ad
-2626,Reason Ad
-2627,Reason Ad
+2625,Reason Ad
+2626,Emotion Ad
+2627,Control
 2628,Control
-2629,Control
+2629,Emotion Ad
 2630,Emotion Ad
-2631,Emotion Ad
-2632,Control
-2633,Emotion Ad
+2631,Control
+2632,Emotion Ad
+2633,Control
 2634,Control
-2635,Emotion Ad
-2636,Control
-2637,Emotion Ad
-2638,Reason Ad
-2639,Reason Ad
+2635,Control
+2636,Reason Ad
+2637,Control
+2638,Emotion Ad
+2639,Emotion Ad
 2640,Emotion Ad
 2641,Emotion Ad
-2642,Control
+2642,Reason Ad
 2643,Emotion Ad
-2644,Reason Ad
-2645,Control
-2646,Control
-2647,Control
-2648,Control
+2644,Emotion Ad
+2645,Emotion Ad
+2646,Reason Ad
+2647,Reason Ad
+2648,Reason Ad
 2649,Emotion Ad
-2650,Emotion Ad
-2651,Reason Ad
-2652,Reason Ad
+2650,Reason Ad
+2651,Control
+2652,Control
 2653,Control
-2654,Emotion Ad
-2655,Control
+2654,Control
+2655,Reason Ad
 2656,Control
-2657,Emotion Ad
-2658,Reason Ad
+2657,Control
+2658,Control
 2659,Control
-2660,Emotion Ad
+2660,Control
 2661,Reason Ad
 2662,Control
-2663,Emotion Ad
+2663,Control
 2664,Emotion Ad
-2665,Reason Ad
-2666,Control
-2667,Control
+2665,Emotion Ad
+2666,Emotion Ad
+2667,Emotion Ad
 2668,Emotion Ad
-2669,Emotion Ad
-2670,Reason Ad
+2669,Reason Ad
+2670,Control
 2671,Control
 2672,Control
 2673,Emotion Ad
 2674,Emotion Ad
-2675,Reason Ad
-2676,Emotion Ad
-2677,Emotion Ad
-2678,Reason Ad
+2675,Control
+2676,Control
+2677,Control
+2678,Control
 2679,Emotion Ad
-2680,Reason Ad
-2681,Reason Ad
-2682,Reason Ad
-2683,Reason Ad
-2684,Emotion Ad
-2685,Control
-2686,Emotion Ad
-2687,Emotion Ad
+2680,Control
+2681,Control
+2682,Emotion Ad
+2683,Control
+2684,Reason Ad
+2685,Emotion Ad
+2686,Reason Ad
+2687,Reason Ad
 2688,Emotion Ad
-2689,Reason Ad
-2690,Reason Ad
-2691,Control
-2692,Reason Ad
-2693,Emotion Ad
-2694,Reason Ad
-2695,Reason Ad
-2696,Emotion Ad
-2697,Emotion Ad
+2689,Control
+2690,Control
+2691,Reason Ad
+2692,Control
+2693,Reason Ad
+2694,Emotion Ad
+2695,Emotion Ad
+2696,Reason Ad
+2697,Control
 2698,Emotion Ad
 2699,Control
-2700,Emotion Ad
-2701,Reason Ad
-2702,Control
-2703,Emotion Ad
-2704,Emotion Ad
-2705,Reason Ad
-2706,Emotion Ad
-2707,Reason Ad
+2700,Reason Ad
+2701,Control
+2702,Reason Ad
+2703,Control
+2704,Control
+2705,Emotion Ad
+2706,Control
+2707,Emotion Ad
 2708,Reason Ad
 2709,Control
 2710,Control
-2711,Emotion Ad
-2712,Emotion Ad
+2711,Control
+2712,Reason Ad
 2713,Control
 2714,Reason Ad
-2715,Reason Ad
+2715,Control
 2716,Control
-2717,Emotion Ad
+2717,Control
 2718,Reason Ad
 2719,Control
-2720,Reason Ad
+2720,Emotion Ad
 2721,Emotion Ad
-2722,Control
-2723,Emotion Ad
+2722,Reason Ad
+2723,Reason Ad
 2724,Control
 2725,Control
-2726,Emotion Ad
+2726,Control
 2727,Emotion Ad
 2728,Reason Ad
-2729,Control
-2730,Emotion Ad
-2731,Control
-2732,Emotion Ad
-2733,Reason Ad
-2734,Reason Ad
-2735,Control
+2729,Reason Ad
+2730,Control
+2731,Emotion Ad
+2732,Reason Ad
+2733,Emotion Ad
+2734,Control
+2735,Emotion Ad
 2736,Emotion Ad
 2737,Reason Ad
 2738,Reason Ad
-2739,Emotion Ad
-2740,Reason Ad
-2741,Reason Ad
-2742,Emotion Ad
-2743,Reason Ad
-2744,Reason Ad
-2745,Reason Ad
-2746,Emotion Ad
+2739,Control
+2740,Control
+2741,Emotion Ad
+2742,Control
+2743,Control
+2744,Control
+2745,Control
+2746,Reason Ad
 2747,Emotion Ad
-2748,Reason Ad
+2748,Control
 2749,Emotion Ad
-2750,Control
+2750,Reason Ad
 2751,Emotion Ad
 2752,Emotion Ad
 2753,Control
 2754,Reason Ad
 2755,Reason Ad
-2756,Control
+2756,Emotion Ad
 2757,Control
-2758,Emotion Ad
-2759,Control
-2760,Control
+2758,Control
+2759,Emotion Ad
+2760,Emotion Ad
 2761,Reason Ad
-2762,Emotion Ad
+2762,Reason Ad
 2763,Emotion Ad
-2764,Emotion Ad
+2764,Control
 2765,Control
-2766,Control
-2767,Control
+2766,Reason Ad
+2767,Emotion Ad
 2768,Reason Ad
 2769,Control
-2770,Emotion Ad
+2770,Reason Ad
 2771,Reason Ad
-2772,Emotion Ad
+2772,Reason Ad
 2773,Emotion Ad
-2774,Emotion Ad
-2775,Reason Ad
+2774,Reason Ad
+2775,Emotion Ad
 2776,Reason Ad
 2777,Emotion Ad
-2778,Emotion Ad
+2778,Reason Ad
 2779,Emotion Ad
-2780,Emotion Ad
-2781,Reason Ad
+2780,Reason Ad
+2781,Emotion Ad
 2782,Reason Ad
 2783,Emotion Ad
 2784,Reason Ad
 2785,Control
-2786,Emotion Ad
-2787,Control
-2788,Emotion Ad
+2786,Reason Ad
+2787,Reason Ad
+2788,Control
 2789,Emotion Ad
-2790,Emotion Ad
-2791,Control
-2792,Reason Ad
+2790,Control
+2791,Reason Ad
+2792,Emotion Ad
 2793,Reason Ad
-2794,Reason Ad
+2794,Control
 2795,Emotion Ad
 2796,Reason Ad
-2797,Emotion Ad
+2797,Control
 2798,Control
 2799,Emotion Ad
-2800,Reason Ad
-2801,Emotion Ad
+2800,Emotion Ad
+2801,Control
 2802,Reason Ad
 2803,Reason Ad
 2804,Emotion Ad
-2805,Emotion Ad
-2806,Reason Ad
+2805,Reason Ad
+2806,Control
 2807,Emotion Ad
-2808,Emotion Ad
-2809,Emotion Ad
-2810,Emotion Ad
-2811,Control
+2808,Control
+2809,Control
+2810,Control
+2811,Emotion Ad
 2812,Emotion Ad
 2813,Reason Ad
-2814,Control
+2814,Emotion Ad
 2815,Control
-2816,Reason Ad
+2816,Control
 2817,Reason Ad
 2818,Control
 2819,Emotion Ad
-2820,Reason Ad
+2820,Emotion Ad
 2821,Reason Ad
 2822,Emotion Ad
-2823,Emotion Ad
-2824,Reason Ad
-2825,Reason Ad
-2826,Reason Ad
+2823,Reason Ad
+2824,Emotion Ad
+2825,Emotion Ad
+2826,Emotion Ad
 2827,Emotion Ad
 2828,Reason Ad
-2829,Emotion Ad
+2829,Control
 2830,Reason Ad
-2831,Control
-2832,Control
-2833,Emotion Ad
+2831,Reason Ad
+2832,Reason Ad
+2833,Reason Ad
 2834,Control
 2835,Reason Ad
-2836,Emotion Ad
+2836,Reason Ad
 2837,Emotion Ad
 2838,Control
-2839,Control
-2840,Control
-2841,Control
+2839,Reason Ad
+2840,Emotion Ad
+2841,Reason Ad
 2842,Control
 2843,Reason Ad
-2844,Reason Ad
-2845,Control
-2846,Control
+2844,Emotion Ad
+2845,Reason Ad
+2846,Emotion Ad
 2847,Emotion Ad
-2848,Reason Ad
+2848,Emotion Ad
 2849,Control
 2850,Emotion Ad
 2851,Control
-2852,Emotion Ad
-2853,Control
+2852,Reason Ad
+2853,Reason Ad
 2854,Control
 2855,Emotion Ad
-2856,Emotion Ad
+2856,Control
 2857,Emotion Ad
-2858,Control
+2858,Emotion Ad
 2859,Emotion Ad
-2860,Emotion Ad
-2861,Control
-2862,Control
-2863,Reason Ad
-2864,Emotion Ad
-2865,Reason Ad
-2866,Control
-2867,Emotion Ad
+2860,Control
+2861,Reason Ad
+2862,Reason Ad
+2863,Emotion Ad
+2864,Control
+2865,Control
+2866,Emotion Ad
+2867,Reason Ad
 2868,Control
-2869,Reason Ad
+2869,Control
 2870,Reason Ad
-2871,Control
-2872,Control
-2873,Control
-2874,Control
+2871,Reason Ad
+2872,Reason Ad
+2873,Emotion Ad
+2874,Reason Ad
 2875,Control
-2876,Reason Ad
+2876,Control
 2877,Control
 2878,Reason Ad
 2879,Emotion Ad
-2880,Reason Ad
-2881,Reason Ad
-2882,Control
+2880,Control
+2881,Emotion Ad
+2882,Reason Ad
 2883,Emotion Ad
-2884,Emotion Ad
-2885,Emotion Ad
+2884,Control
+2885,Control
 2886,Control
-2887,Emotion Ad
+2887,Control
 2888,Control
-2889,Control
-2890,Reason Ad
+2889,Emotion Ad
+2890,Control
 2891,Control
-2892,Emotion Ad
-2893,Reason Ad
-2894,Reason Ad
-2895,Control
+2892,Reason Ad
+2893,Emotion Ad
+2894,Emotion Ad
+2895,Emotion Ad
 2896,Reason Ad
-2897,Reason Ad
-2898,Reason Ad
+2897,Emotion Ad
+2898,Emotion Ad
 2899,Emotion Ad
-2900,Emotion Ad
-2901,Reason Ad
-2902,Reason Ad
+2900,Reason Ad
+2901,Emotion Ad
+2902,Control
 2903,Control
-2904,Reason Ad
+2904,Control
 2905,Control
 2906,Control
-2907,Reason Ad
-2908,Emotion Ad
-2909,Control
-2910,Reason Ad
-2911,Emotion Ad
-2912,Control
+2907,Control
+2908,Reason Ad
+2909,Emotion Ad
+2910,Control
+2911,Reason Ad
+2912,Reason Ad
 2913,Reason Ad
-2914,Control
-2915,Control
-2916,Control
-2917,Control
-2918,Control
-2919,Emotion Ad
+2914,Emotion Ad
+2915,Emotion Ad
+2916,Reason Ad
+2917,Reason Ad
+2918,Reason Ad
+2919,Control
 2920,Emotion Ad
-2921,Control
-2922,Emotion Ad
-2923,Emotion Ad
-2924,Reason Ad
-2925,Emotion Ad
-2926,Emotion Ad
-2927,Emotion Ad
-2928,Emotion Ad
-2929,Control
-2930,Emotion Ad
-2931,Emotion Ad
+2921,Emotion Ad
+2922,Reason Ad
+2923,Reason Ad
+2924,Control
+2925,Reason Ad
+2926,Reason Ad
+2927,Control
+2928,Reason Ad
+2929,Emotion Ad
+2930,Reason Ad
+2931,Control
 2932,Reason Ad
-2933,Reason Ad
-2934,Control
+2933,Emotion Ad
+2934,Reason Ad
 2935,Control
-2936,Emotion Ad
+2936,Control
 2937,Control
-2938,Reason Ad
+2938,Control
 2939,Control
 2940,Emotion Ad
-2941,Emotion Ad
-2942,Emotion Ad
+2941,Reason Ad
+2942,Reason Ad
 2943,Emotion Ad
-2944,Control
-2945,Reason Ad
+2944,Reason Ad
+2945,Control
 2946,Control
-2947,Reason Ad
-2948,Reason Ad
+2947,Control
+2948,Emotion Ad
 2949,Emotion Ad
-2950,Emotion Ad
-2951,Control
-2952,Emotion Ad
-2953,Control
-2954,Control
-2955,Emotion Ad
-2956,Reason Ad
+2950,Reason Ad
+2951,Emotion Ad
+2952,Reason Ad
+2953,Emotion Ad
+2954,Emotion Ad
+2955,Reason Ad
+2956,Control
 2957,Reason Ad
 2958,Reason Ad
 2959,Control
-2960,Control
-2961,Reason Ad
+2960,Emotion Ad
+2961,Emotion Ad
 2962,Control
-2963,Emotion Ad
+2963,Reason Ad
 2964,Reason Ad
 2965,Reason Ad
-2966,Emotion Ad
+2966,Control
 2967,Control
-2968,Reason Ad
-2969,Reason Ad
-2970,Emotion Ad
-2971,Reason Ad
+2968,Emotion Ad
+2969,Emotion Ad
+2970,Control
+2971,Control
 2972,Control
 2973,Reason Ad
-2974,Emotion Ad
-2975,Emotion Ad
-2976,Reason Ad
-2977,Control
+2974,Reason Ad
+2975,Reason Ad
+2976,Emotion Ad
+2977,Emotion Ad
 2978,Emotion Ad
-2979,Emotion Ad
-2980,Control
-2981,Reason Ad
+2979,Reason Ad
+2980,Emotion Ad
+2981,Emotion Ad
 2982,Control
-2983,Control
-2984,Reason Ad
-2985,Reason Ad
+2983,Reason Ad
+2984,Control
+2985,Control
 2986,Control
-2987,Emotion Ad
-2988,Control
-2989,Emotion Ad
+2987,Control
+2988,Reason Ad
+2989,Reason Ad
 2990,Control
-2991,Reason Ad
-2992,Emotion Ad
+2991,Control
+2992,Control
 2993,Emotion Ad
-2994,Control
-2995,Reason Ad
-2996,Emotion Ad
+2994,Emotion Ad
+2995,Control
+2996,Control
 2997,Control
-2998,Emotion Ad
-2999,Reason Ad
-3000,Control
-3001,Control
+2998,Reason Ad
+2999,Emotion Ad
+3000,Emotion Ad
+3001,Emotion Ad
 3002,Control
-3003,Emotion Ad
-3004,Control
-3005,Emotion Ad
+3003,Reason Ad
+3004,Reason Ad
+3005,Control
 3006,Emotion Ad
-3007,Emotion Ad
+3007,Control
 3008,Emotion Ad
-3009,Emotion Ad
+3009,Reason Ad
 3010,Reason Ad
-3011,Control
+3011,Reason Ad
 3012,Emotion Ad
-3013,Emotion Ad
+3013,Control
 3014,Emotion Ad
-3015,Control
-3016,Reason Ad
-3017,Emotion Ad
-3018,Reason Ad
-3019,Reason Ad
-3020,Reason Ad
+3015,Reason Ad
+3016,Control
+3017,Reason Ad
+3018,Emotion Ad
+3019,Emotion Ad
+3020,Emotion Ad
 3021,Control
-3022,Reason Ad
-3023,Emotion Ad
-3024,Control
-3025,Control
+3022,Emotion Ad
+3023,Control
+3024,Emotion Ad
+3025,Reason Ad
 3026,Emotion Ad
 3027,Reason Ad
 3028,Reason Ad
-3029,Emotion Ad
-3030,Emotion Ad
+3029,Control
+3030,Control
 3031,Control
-3032,Control
+3032,Emotion Ad
 3033,Emotion Ad
-3034,Emotion Ad
-3035,Control
-3036,Reason Ad
+3034,Control
+3035,Emotion Ad
+3036,Control
 3037,Control
-3038,Control
-3039,Control
-3040,Reason Ad
+3038,Reason Ad
+3039,Emotion Ad
+3040,Emotion Ad
 3041,Reason Ad
 3042,Control
-3043,Control
-3044,Emotion Ad
+3043,Reason Ad
+3044,Reason Ad
 3045,Emotion Ad
-3046,Reason Ad
-3047,Reason Ad
+3046,Control
+3047,Emotion Ad
 3048,Emotion Ad
-3049,Reason Ad
-3050,Emotion Ad
-3051,Control
-3052,Emotion Ad
-3053,Reason Ad
-3054,Emotion Ad
+3049,Emotion Ad
+3050,Reason Ad
+3051,Emotion Ad
+3052,Control
+3053,Emotion Ad
+3054,Reason Ad
 3055,Emotion Ad
-3056,Control
-3057,Control
+3056,Reason Ad
+3057,Reason Ad
 3058,Reason Ad
-3059,Reason Ad
+3059,Control
 3060,Reason Ad
 3061,Reason Ad
-3062,Control
-3063,Emotion Ad
-3064,Reason Ad
-3065,Control
-3066,Reason Ad
-3067,Control
-3068,Reason Ad
-3069,Reason Ad
-3070,Control
-3071,Emotion Ad
-3072,Reason Ad
+3062,Emotion Ad
+3063,Reason Ad
+3064,Emotion Ad
+3065,Emotion Ad
+3066,Emotion Ad
+3067,Emotion Ad
+3068,Emotion Ad
+3069,Emotion Ad
+3070,Emotion Ad
+3071,Reason Ad
+3072,Emotion Ad
 3073,Control
-3074,Control
-3075,Reason Ad
+3074,Reason Ad
+3075,Control
 3076,Reason Ad
-3077,Emotion Ad
-3078,Control
-3079,Emotion Ad
+3077,Reason Ad
+3078,Reason Ad
+3079,Control
 3080,Control
-3081,Reason Ad
-3082,Reason Ad
-3083,Reason Ad
-3084,Control
-3085,Reason Ad
-3086,Control
-3087,Emotion Ad
-3088,Control
-3089,Control
+3081,Control
+3082,Emotion Ad
+3083,Control
+3084,Reason Ad
+3085,Control
+3086,Emotion Ad
+3087,Reason Ad
+3088,Emotion Ad
+3089,Reason Ad
 3090,Emotion Ad
 3091,Reason Ad
 3092,Reason Ad
-3093,Reason Ad
-3094,Emotion Ad
+3093,Control
+3094,Control
 3095,Control
-3096,Reason Ad
+3096,Emotion Ad
 3097,Control
-3098,Emotion Ad
+3098,Reason Ad
 3099,Emotion Ad
-3100,Control
+3100,Emotion Ad
 3101,Reason Ad
 3102,Emotion Ad
 3103,Control
-3104,Control
+3104,Reason Ad
 3105,Reason Ad
-3106,Reason Ad
-3107,Control
-3108,Emotion Ad
+3106,Control
+3107,Emotion Ad
+3108,Reason Ad
 3109,Control
 3110,Reason Ad
-3111,Reason Ad
-3112,Reason Ad
-3113,Control
+3111,Control
+3112,Emotion Ad
+3113,Emotion Ad
 3114,Reason Ad
-3115,Emotion Ad
-3116,Control
-3117,Control
-3118,Reason Ad
+3115,Control
+3116,Reason Ad
+3117,Reason Ad
+3118,Emotion Ad
 3119,Emotion Ad
-3120,Reason Ad
-3121,Reason Ad
-3122,Reason Ad
-3123,Control
-3124,Emotion Ad
-3125,Emotion Ad
+3120,Emotion Ad
+3121,Control
+3122,Control
+3123,Emotion Ad
+3124,Control
+3125,Control
 3126,Control
 3127,Control
-3128,Reason Ad
-3129,Reason Ad
-3130,Emotion Ad
-3131,Emotion Ad
+3128,Control
+3129,Emotion Ad
+3130,Control
+3131,Reason Ad
 3132,Emotion Ad
-3133,Emotion Ad
-3134,Reason Ad
-3135,Reason Ad
-3136,Reason Ad
-3137,Emotion Ad
+3133,Reason Ad
+3134,Emotion Ad
+3135,Control
+3136,Emotion Ad
+3137,Reason Ad
 3138,Reason Ad
-3139,Reason Ad
-3140,Emotion Ad
+3139,Emotion Ad
+3140,Control
 3141,Emotion Ad
 3142,Emotion Ad
-3143,Reason Ad
+3143,Control
 3144,Reason Ad
 3145,Control
-3146,Emotion Ad
+3146,Control
 3147,Control
-3148,Reason Ad
-3149,Control
+3148,Emotion Ad
+3149,Emotion Ad
 3150,Emotion Ad
 3151,Control
-3152,Control
-3153,Reason Ad
-3154,Control
+3152,Emotion Ad
+3153,Control
+3154,Emotion Ad
 3155,Control
-3156,Control
+3156,Emotion Ad
 3157,Reason Ad
-3158,Emotion Ad
-3159,Control
-3160,Emotion Ad
+3158,Reason Ad
+3159,Emotion Ad
+3160,Control
 3161,Control
-3162,Emotion Ad
-3163,Control
-3164,Reason Ad
-3165,Emotion Ad
-3166,Reason Ad
+3162,Reason Ad
+3163,Emotion Ad
+3164,Control
+3165,Control
+3166,Control
 3167,Control
-3168,Control
+3168,Reason Ad
 3169,Control
-3170,Emotion Ad
-3171,Reason Ad
+3170,Reason Ad
+3171,Control
 3172,Reason Ad
-3173,Reason Ad
-3174,Reason Ad
-3175,Control
-3176,Emotion Ad
-3177,Emotion Ad
+3173,Emotion Ad
+3174,Emotion Ad
+3175,Emotion Ad
+3176,Control
+3177,Control
 3178,Reason Ad
 3179,Reason Ad
-3180,Emotion Ad
+3180,Control
 3181,Emotion Ad
-3182,Control
-3183,Reason Ad
+3182,Reason Ad
+3183,Control
 3184,Emotion Ad
 3185,Reason Ad
-3186,Emotion Ad
-3187,Reason Ad
+3186,Control
+3187,Emotion Ad
 3188,Control
-3189,Control
-3190,Reason Ad
-3191,Control
-3192,Emotion Ad
+3189,Emotion Ad
+3190,Emotion Ad
+3191,Emotion Ad
+3192,Control
 3193,Emotion Ad
-3194,Control
+3194,Reason Ad
 3195,Reason Ad
 3196,Control
-3197,Emotion Ad
-3198,Control
-3199,Reason Ad
-3200,Emotion Ad
+3197,Control
+3198,Reason Ad
+3199,Control
+3200,Reason Ad
 3201,Control
-3202,Reason Ad
-3203,Emotion Ad
-3204,Emotion Ad
-3205,Reason Ad
+3202,Emotion Ad
+3203,Reason Ad
+3204,Reason Ad
+3205,Control
 3206,Reason Ad
 3207,Reason Ad
-3208,Control
-3209,Emotion Ad
+3208,Emotion Ad
+3209,Reason Ad
 3210,Reason Ad
-3211,Control
+3211,Emotion Ad
 3212,Reason Ad
-3213,Control
+3213,Reason Ad
 3214,Emotion Ad
-3215,Emotion Ad
+3215,Control
 3216,Reason Ad
-3217,Control
-3218,Control
-3219,Reason Ad
+3217,Emotion Ad
+3218,Reason Ad
+3219,Control
 3220,Reason Ad
-3221,Emotion Ad
+3221,Reason Ad
 3222,Emotion Ad
-3223,Emotion Ad
-3224,Control
-3225,Reason Ad
-3226,Emotion Ad
+3223,Control
+3224,Emotion Ad
+3225,Emotion Ad
+3226,Reason Ad
 3227,Emotion Ad
-3228,Reason Ad
-3229,Reason Ad
-3230,Reason Ad
-3231,Emotion Ad
-3232,Control
+3228,Emotion Ad
+3229,Control
+3230,Control
+3231,Control
+3232,Emotion Ad
 3233,Control
 3234,Control
 3235,Reason Ad
-3236,Emotion Ad
+3236,Control
 3237,Control
 3238,Control
-3239,Control
+3239,Reason Ad
 3240,Emotion Ad
 3241,Emotion Ad
-3242,Control
+3242,Reason Ad
 3243,Emotion Ad
 3244,Control
-3245,Emotion Ad
-3246,Reason Ad
-3247,Reason Ad
-3248,Emotion Ad
-3249,Reason Ad
-3250,Emotion Ad
+3245,Control
+3246,Emotion Ad
+3247,Emotion Ad
+3248,Reason Ad
+3249,Emotion Ad
+3250,Reason Ad
 3251,Emotion Ad
-3252,Control
+3252,Reason Ad
 3253,Emotion Ad
-3254,Emotion Ad
+3254,Control
 3255,Reason Ad
-3256,Reason Ad
-3257,Control
+3256,Emotion Ad
+3257,Reason Ad
 3258,Reason Ad
 3259,Control
-3260,Emotion Ad
+3260,Control
 3261,Reason Ad
 3262,Control
-3263,Emotion Ad
-3264,Reason Ad
-3265,Control
+3263,Reason Ad
+3264,Control
+3265,Reason Ad
 3266,Emotion Ad
-3267,Control
+3267,Emotion Ad
 3268,Reason Ad
-3269,Emotion Ad
+3269,Control
 3270,Reason Ad
 3271,Control
 3272,Control
-3273,Emotion Ad
-3274,Reason Ad
-3275,Emotion Ad
+3273,Control
+3274,Control
+3275,Reason Ad
 3276,Emotion Ad
-3277,Control
-3278,Reason Ad
-3279,Control
-3280,Emotion Ad
-3281,Control
+3277,Reason Ad
+3278,Control
+3279,Reason Ad
+3280,Reason Ad
+3281,Reason Ad
 3282,Control
 3283,Reason Ad
-3284,Control
+3284,Reason Ad
 3285,Reason Ad
-3286,Control
+3286,Reason Ad
 3287,Emotion Ad
 3288,Reason Ad
-3289,Control
-3290,Control
-3291,Reason Ad
-3292,Emotion Ad
+3289,Reason Ad
+3290,Reason Ad
+3291,Emotion Ad
+3292,Control
 3293,Control
 3294,Reason Ad
-3295,Reason Ad
-3296,Reason Ad
+3295,Emotion Ad
+3296,Control
 3297,Emotion Ad
 3298,Reason Ad
-3299,Emotion Ad
-3300,Reason Ad
+3299,Control
+3300,Control
 3301,Control
-3302,Emotion Ad
-3303,Control
-3304,Reason Ad
-3305,Reason Ad
-3306,Emotion Ad
-3307,Control
-3308,Control
-3309,Reason Ad
-3310,Reason Ad
+3302,Control
+3303,Emotion Ad
+3304,Emotion Ad
+3305,Control
+3306,Control
+3307,Reason Ad
+3308,Emotion Ad
+3309,Control
+3310,Control
 3311,Control
-3312,Reason Ad
-3313,Emotion Ad
-3314,Emotion Ad
-3315,Reason Ad
+3312,Control
+3313,Control
+3314,Control
+3315,Control
 3316,Reason Ad
-3317,Emotion Ad
-3318,Emotion Ad
+3317,Reason Ad
+3318,Control
 3319,Reason Ad
-3320,Reason Ad
+3320,Emotion Ad
 3321,Control
-3322,Reason Ad
-3323,Control
+3322,Emotion Ad
+3323,Emotion Ad
 3324,Reason Ad
-3325,Control
+3325,Emotion Ad
 3326,Emotion Ad
 3327,Reason Ad
-3328,Reason Ad
-3329,Control
-3330,Emotion Ad
-3331,Reason Ad
-3332,Emotion Ad
+3328,Control
+3329,Reason Ad
+3330,Reason Ad
+3331,Control
+3332,Reason Ad
 3333,Reason Ad
 3334,Emotion Ad
 3335,Reason Ad
-3336,Emotion Ad
-3337,Control
-3338,Emotion Ad
+3336,Control
+3337,Emotion Ad
+3338,Control
 3339,Control
-3340,Control
+3340,Emotion Ad
 3341,Emotion Ad
 3342,Emotion Ad
 3343,Reason Ad
-3344,Reason Ad
-3345,Reason Ad
-3346,Reason Ad
+3344,Emotion Ad
+3345,Control
+3346,Emotion Ad
 3347,Emotion Ad
-3348,Reason Ad
+3348,Emotion Ad
 3349,Emotion Ad
-3350,Reason Ad
-3351,Reason Ad
-3352,Reason Ad
-3353,Emotion Ad
-3354,Control
-3355,Reason Ad
-3356,Control
+3350,Emotion Ad
+3351,Control
+3352,Emotion Ad
+3353,Control
+3354,Reason Ad
+3355,Emotion Ad
+3356,Emotion Ad
 3357,Control
-3358,Reason Ad
+3358,Control
 3359,Reason Ad
-3360,Emotion Ad
-3361,Control
+3360,Reason Ad
+3361,Reason Ad
 3362,Emotion Ad
-3363,Reason Ad
+3363,Control
 3364,Emotion Ad
-3365,Control
-3366,Reason Ad
-3367,Reason Ad
-3368,Reason Ad
-3369,Reason Ad
-3370,Emotion Ad
-3371,Control
-3372,Emotion Ad
-3373,Emotion Ad
+3365,Emotion Ad
+3366,Emotion Ad
+3367,Emotion Ad
+3368,Control
+3369,Control
+3370,Control
+3371,Emotion Ad
+3372,Reason Ad
+3373,Reason Ad
 3374,Emotion Ad
 3375,Reason Ad
 3376,Reason Ad
 3377,Reason Ad
-3378,Reason Ad
-3379,Reason Ad
+3378,Emotion Ad
+3379,Emotion Ad
 3380,Reason Ad
 3381,Emotion Ad
-3382,Emotion Ad
-3383,Control
-3384,Reason Ad
+3382,Control
+3383,Emotion Ad
+3384,Emotion Ad
 3385,Emotion Ad
-3386,Reason Ad
+3386,Emotion Ad
 3387,Reason Ad
 3388,Emotion Ad
-3389,Reason Ad
-3390,Reason Ad
+3389,Control
+3390,Control
 3391,Reason Ad
-3392,Reason Ad
-3393,Emotion Ad
+3392,Control
+3393,Reason Ad
 3394,Reason Ad
 3395,Emotion Ad
-3396,Reason Ad
+3396,Control
 3397,Reason Ad
 3398,Control
-3399,Control
+3399,Reason Ad
 3400,Control
 3401,Reason Ad
-3402,Control
-3403,Control
-3404,Control
+3402,Reason Ad
+3403,Reason Ad
+3404,Emotion Ad
 3405,Emotion Ad
-3406,Reason Ad
+3406,Emotion Ad
 3407,Reason Ad
-3408,Control
+3408,Reason Ad
 3409,Emotion Ad
-3410,Emotion Ad
-3411,Emotion Ad
-3412,Emotion Ad
-3413,Reason Ad
-3414,Reason Ad
-3415,Reason Ad
+3410,Reason Ad
+3411,Control
+3412,Reason Ad
+3413,Emotion Ad
+3414,Control
+3415,Emotion Ad
 3416,Reason Ad
-3417,Reason Ad
-3418,Emotion Ad
-3419,Emotion Ad
+3417,Control
+3418,Control
+3419,Reason Ad
 3420,Reason Ad
 3421,Control
-3422,Control
+3422,Reason Ad
 3423,Control
-3424,Emotion Ad
+3424,Control
 3425,Control
 3426,Emotion Ad
 3427,Reason Ad
-3428,Emotion Ad
+3428,Control
 3429,Control
-3430,Emotion Ad
-3431,Emotion Ad
-3432,Emotion Ad
+3430,Reason Ad
+3431,Control
+3432,Control
 3433,Reason Ad
-3434,Reason Ad
-3435,Emotion Ad
-3436,Reason Ad
+3434,Emotion Ad
+3435,Reason Ad
+3436,Control
 3437,Reason Ad
-3438,Control
-3439,Control
+3438,Emotion Ad
+3439,Emotion Ad
 3440,Control
-3441,Emotion Ad
-3442,Reason Ad
-3443,Control
-3444,Control
+3441,Reason Ad
+3442,Emotion Ad
+3443,Reason Ad
+3444,Emotion Ad
 3445,Control
-3446,Emotion Ad
-3447,Control
-3448,Emotion Ad
+3446,Control
+3447,Reason Ad
+3448,Control
 3449,Reason Ad
-3450,Reason Ad
-3451,Emotion Ad
+3450,Emotion Ad
+3451,Control
 3452,Control
-3453,Control
+3453,Reason Ad
 3454,Reason Ad
-3455,Reason Ad
-3456,Reason Ad
-3457,Reason Ad
-3458,Control
+3455,Emotion Ad
+3456,Emotion Ad
+3457,Control
+3458,Reason Ad
 3459,Reason Ad
-3460,Control
+3460,Emotion Ad
 3461,Emotion Ad
-3462,Emotion Ad
-3463,Control
+3462,Control
+3463,Emotion Ad
 3464,Reason Ad
-3465,Emotion Ad
+3465,Control
 3466,Control
-3467,Control
-3468,Reason Ad
-3469,Reason Ad
-3470,Reason Ad
-3471,Reason Ad
-3472,Reason Ad
-3473,Control
-3474,Emotion Ad
+3467,Reason Ad
+3468,Emotion Ad
+3469,Control
+3470,Control
+3471,Control
+3472,Control
+3473,Reason Ad
+3474,Reason Ad
 3475,Reason Ad
-3476,Emotion Ad
-3477,Control
-3478,Reason Ad
-3479,Emotion Ad
-3480,Reason Ad
-3481,Control
+3476,Reason Ad
+3477,Reason Ad
+3478,Control
+3479,Reason Ad
+3480,Control
+3481,Reason Ad
 3482,Control
-3483,Control
+3483,Reason Ad
 3484,Control
-3485,Control
+3485,Reason Ad
 3486,Emotion Ad
 3487,Reason Ad
-3488,Emotion Ad
-3489,Reason Ad
-3490,Control
-3491,Emotion Ad
-3492,Reason Ad
-3493,Reason Ad
-3494,Reason Ad
+3488,Control
+3489,Emotion Ad
+3490,Emotion Ad
+3491,Control
+3492,Emotion Ad
+3493,Emotion Ad
+3494,Emotion Ad
 3495,Control
-3496,Control
-3497,Emotion Ad
-3498,Emotion Ad
-3499,Reason Ad
-3500,Reason Ad
-3501,Emotion Ad
+3496,Reason Ad
+3497,Control
+3498,Control
+3499,Emotion Ad
+3500,Emotion Ad
+3501,Control
 3502,Emotion Ad
-3503,Reason Ad
+3503,Emotion Ad
 3504,Reason Ad
-3505,Control
-3506,Control
-3507,Reason Ad
+3505,Emotion Ad
+3506,Emotion Ad
+3507,Emotion Ad
 3508,Control
-3509,Reason Ad
+3509,Control
 3510,Control
-3511,Control
-3512,Control
-3513,Control
-3514,Emotion Ad
-3515,Reason Ad
+3511,Reason Ad
+3512,Reason Ad
+3513,Reason Ad
+3514,Reason Ad
+3515,Emotion Ad
 3516,Reason Ad
-3517,Reason Ad
-3518,Emotion Ad
+3517,Control
+3518,Reason Ad
 3519,Emotion Ad
 3520,Emotion Ad
 3521,Emotion Ad
-3522,Reason Ad
+3522,Control
 3523,Emotion Ad
-3524,Control
-3525,Emotion Ad
+3524,Emotion Ad
+3525,Reason Ad
 3526,Emotion Ad
-3527,Control
+3527,Emotion Ad
 3528,Reason Ad
-3529,Control
-3530,Reason Ad
+3529,Reason Ad
+3530,Control
 3531,Control
 3532,Control
-3533,Reason Ad
+3533,Control
 3534,Reason Ad
-3535,Control
+3535,Emotion Ad
 3536,Control
 3537,Control
 3538,Reason Ad
 3539,Control
 3540,Control
 3541,Reason Ad
-3542,Emotion Ad
-3543,Control
-3544,Emotion Ad
-3545,Emotion Ad
+3542,Reason Ad
+3543,Emotion Ad
+3544,Reason Ad
+3545,Reason Ad
 3546,Control
-3547,Emotion Ad
+3547,Reason Ad
 3548,Emotion Ad
-3549,Emotion Ad
-3550,Reason Ad
+3549,Control
+3550,Control
 3551,Reason Ad
 3552,Emotion Ad
-3553,Emotion Ad
-3554,Control
-3555,Reason Ad
-3556,Control
-3557,Emotion Ad
+3553,Reason Ad
+3554,Reason Ad
+3555,Control
+3556,Emotion Ad
+3557,Control
 3558,Emotion Ad
-3559,Emotion Ad
+3559,Reason Ad
 3560,Reason Ad
 3561,Control
-3562,Control
+3562,Emotion Ad
 3563,Reason Ad
-3564,Control
-3565,Emotion Ad
-3566,Control
-3567,Reason Ad
-3568,Control
+3564,Reason Ad
+3565,Reason Ad
+3566,Emotion Ad
+3567,Control
+3568,Reason Ad
 3569,Emotion Ad
-3570,Emotion Ad
-3571,Control
-3572,Control
-3573,Control
-3574,Reason Ad
-3575,Reason Ad
-3576,Emotion Ad
+3570,Reason Ad
+3571,Emotion Ad
+3572,Reason Ad
+3573,Reason Ad
+3574,Control
+3575,Emotion Ad
+3576,Reason Ad
 3577,Control
 3578,Emotion Ad
 3579,Control
-3580,Emotion Ad
-3581,Control
-3582,Emotion Ad
+3580,Reason Ad
+3581,Reason Ad
+3582,Control
 3583,Reason Ad
-3584,Control
-3585,Emotion Ad
-3586,Emotion Ad
-3587,Reason Ad
-3588,Reason Ad
-3589,Control
+3584,Reason Ad
+3585,Reason Ad
+3586,Control
+3587,Emotion Ad
+3588,Control
+3589,Reason Ad
 3590,Reason Ad
-3591,Control
+3591,Emotion Ad
 3592,Control
-3593,Control
-3594,Emotion Ad
+3593,Reason Ad
+3594,Reason Ad
 3595,Reason Ad
-3596,Emotion Ad
+3596,Control
 3597,Emotion Ad
 3598,Reason Ad
 3599,Control
-3600,Control
-3601,Reason Ad
+3600,Reason Ad
+3601,Emotion Ad
 3602,Reason Ad
-3603,Reason Ad
-3604,Emotion Ad
-3605,Reason Ad
+3603,Control
+3604,Control
+3605,Emotion Ad
 3606,Reason Ad
-3607,Control
-3608,Emotion Ad
-3609,Reason Ad
+3607,Reason Ad
+3608,Reason Ad
+3609,Emotion Ad
 3610,Reason Ad
-3611,Emotion Ad
+3611,Control
 3612,Emotion Ad
-3613,Control
+3613,Reason Ad
 3614,Control
-3615,Reason Ad
-3616,Emotion Ad
-3617,Emotion Ad
-3618,Emotion Ad
+3615,Control
+3616,Reason Ad
+3617,Reason Ad
+3618,Control
 3619,Emotion Ad
-3620,Control
+3620,Reason Ad
 3621,Reason Ad
 3622,Emotion Ad
-3623,Reason Ad
-3624,Reason Ad
-3625,Emotion Ad
-3626,Control
-3627,Reason Ad
+3623,Control
+3624,Emotion Ad
+3625,Reason Ad
+3626,Emotion Ad
+3627,Control
 3628,Emotion Ad
 3629,Control
 3630,Emotion Ad
-3631,Control
+3631,Emotion Ad
 3632,Control
 3633,Emotion Ad
-3634,Reason Ad
-3635,Emotion Ad
+3634,Control
+3635,Control
 3636,Control
-3637,Reason Ad
-3638,Emotion Ad
+3637,Emotion Ad
+3638,Reason Ad
 3639,Control
-3640,Reason Ad
-3641,Control
+3640,Emotion Ad
+3641,Emotion Ad
 3642,Control
-3643,Reason Ad
-3644,Emotion Ad
+3643,Control
+3644,Reason Ad
 3645,Control
-3646,Emotion Ad
+3646,Control
 3647,Control
 3648,Reason Ad
-3649,Emotion Ad
+3649,Control
 3650,Control
-3651,Reason Ad
+3651,Control
 3652,Reason Ad
 3653,Emotion Ad
 3654,Reason Ad
-3655,Reason Ad
+3655,Emotion Ad
 3656,Reason Ad
 3657,Emotion Ad
-3658,Reason Ad
-3659,Emotion Ad
+3658,Control
+3659,Control
 3660,Control
 3661,Control
-3662,Emotion Ad
-3663,Emotion Ad
-3664,Emotion Ad
-3665,Reason Ad
-3666,Reason Ad
+3662,Control
+3663,Control
+3664,Control
+3665,Control
+3666,Control
 3667,Reason Ad
 3668,Control
-3669,Emotion Ad
-3670,Emotion Ad
-3671,Reason Ad
-3672,Emotion Ad
-3673,Reason Ad
+3669,Control
+3670,Control
+3671,Control
+3672,Control
+3673,Emotion Ad
 3674,Emotion Ad
-3675,Emotion Ad
+3675,Reason Ad
 3676,Control
-3677,Control
-3678,Control
+3677,Reason Ad
+3678,Reason Ad
 3679,Emotion Ad
-3680,Reason Ad
+3680,Control
 3681,Control
-3682,Emotion Ad
+3682,Control
 3683,Emotion Ad
-3684,Control
-3685,Emotion Ad
-3686,Reason Ad
-3687,Reason Ad
+3684,Emotion Ad
+3685,Reason Ad
+3686,Emotion Ad
+3687,Control
 3688,Reason Ad
 3689,Control
 3690,Emotion Ad
 3691,Reason Ad
-3692,Reason Ad
+3692,Control
 3693,Emotion Ad
 3694,Reason Ad
 3695,Emotion Ad
 3696,Emotion Ad
 3697,Control
-3698,Reason Ad
-3699,Emotion Ad
-3700,Reason Ad
-3701,Control
-3702,Reason Ad
-3703,Control
-3704,Control
+3698,Emotion Ad
+3699,Reason Ad
+3700,Control
+3701,Reason Ad
+3702,Emotion Ad
+3703,Reason Ad
+3704,Emotion Ad
 3705,Reason Ad
-3706,Reason Ad
-3707,Control
+3706,Control
+3707,Reason Ad
 3708,Emotion Ad
 3709,Reason Ad
 3710,Emotion Ad
-3711,Emotion Ad
-3712,Emotion Ad
-3713,Emotion Ad
-3714,Emotion Ad
-3715,Reason Ad
+3711,Control
+3712,Control
+3713,Control
+3714,Control
+3715,Control
 3716,Emotion Ad
-3717,Control
-3718,Control
+3717,Emotion Ad
+3718,Reason Ad
 3719,Control
-3720,Control
-3721,Emotion Ad
+3720,Emotion Ad
+3721,Reason Ad
 3722,Emotion Ad
 3723,Emotion Ad
-3724,Emotion Ad
+3724,Control
 3725,Emotion Ad
-3726,Control
-3727,Reason Ad
-3728,Control
+3726,Reason Ad
+3727,Emotion Ad
+3728,Emotion Ad
 3729,Control
-3730,Emotion Ad
-3731,Emotion Ad
-3732,Reason Ad
-3733,Reason Ad
-3734,Control
-3735,Reason Ad
-3736,Emotion Ad
-3737,Reason Ad
-3738,Control
+3730,Reason Ad
+3731,Reason Ad
+3732,Control
+3733,Emotion Ad
+3734,Reason Ad
+3735,Emotion Ad
+3736,Reason Ad
+3737,Emotion Ad
+3738,Emotion Ad
 3739,Control
-3740,Control
-3741,Emotion Ad
+3740,Emotion Ad
+3741,Reason Ad
 3742,Emotion Ad
 3743,Reason Ad
 3744,Control
 3745,Reason Ad
-3746,Emotion Ad
-3747,Reason Ad
-3748,Control
-3749,Control
-3750,Control
-3751,Emotion Ad
-3752,Control
+3746,Reason Ad
+3747,Control
+3748,Reason Ad
+3749,Emotion Ad
+3750,Reason Ad
+3751,Control
+3752,Emotion Ad
 3753,Control
-3754,Control
-3755,Control
+3754,Emotion Ad
+3755,Reason Ad
 3756,Reason Ad
-3757,Control
-3758,Reason Ad
+3757,Emotion Ad
+3758,Control
 3759,Emotion Ad
-3760,Control
-3761,Reason Ad
-3762,Control
+3760,Emotion Ad
+3761,Emotion Ad
+3762,Emotion Ad
 3763,Reason Ad
-3764,Control
-3765,Emotion Ad
-3766,Reason Ad
-3767,Emotion Ad
+3764,Reason Ad
+3765,Reason Ad
+3766,Emotion Ad
+3767,Reason Ad
 3768,Emotion Ad
 3769,Reason Ad
 3770,Control
-3771,Reason Ad
-3772,Emotion Ad
+3771,Control
+3772,Reason Ad
 3773,Control
 3774,Emotion Ad
-3775,Control
+3775,Reason Ad
 3776,Emotion Ad
 3777,Control
-3778,Control
-3779,Control
+3778,Emotion Ad
+3779,Reason Ad
 3780,Reason Ad
-3781,Reason Ad
+3781,Emotion Ad
 3782,Reason Ad
 3783,Emotion Ad
-3784,Control
-3785,Control
-3786,Control
-3787,Reason Ad
+3784,Emotion Ad
+3785,Reason Ad
+3786,Reason Ad
+3787,Control
 3788,Emotion Ad
 3789,Emotion Ad
-3790,Control
+3790,Reason Ad
 3791,Emotion Ad
-3792,Control
-3793,Reason Ad
-3794,Reason Ad
-3795,Control
-3796,Emotion Ad
-3797,Control
-3798,Control
-3799,Emotion Ad
+3792,Emotion Ad
+3793,Emotion Ad
+3794,Control
+3795,Emotion Ad
+3796,Control
+3797,Reason Ad
+3798,Reason Ad
+3799,Reason Ad
 3800,Reason Ad
 3801,Control
-3802,Emotion Ad
-3803,Reason Ad
+3802,Control
+3803,Emotion Ad
 3804,Control
-3805,Emotion Ad
-3806,Reason Ad
-3807,Emotion Ad
-3808,Reason Ad
+3805,Reason Ad
+3806,Emotion Ad
+3807,Control
+3808,Control
 3809,Reason Ad
-3810,Control
-3811,Reason Ad
-3812,Emotion Ad
-3813,Control
-3814,Emotion Ad
+3810,Emotion Ad
+3811,Control
+3812,Reason Ad
+3813,Reason Ad
+3814,Reason Ad
 3815,Control
 3816,Reason Ad
 3817,Reason Ad
-3818,Control
-3819,Emotion Ad
+3818,Reason Ad
+3819,Control
 3820,Reason Ad
-3821,Emotion Ad
+3821,Reason Ad
 3822,Reason Ad
-3823,Control
-3824,Control
-3825,Reason Ad
-3826,Control
-3827,Emotion Ad
+3823,Reason Ad
+3824,Reason Ad
+3825,Emotion Ad
+3826,Emotion Ad
+3827,Control
 3828,Control
-3829,Emotion Ad
+3829,Control
 3830,Reason Ad
 3831,Emotion Ad
 3832,Control
-3833,Emotion Ad
+3833,Control
 3834,Emotion Ad
-3835,Reason Ad
-3836,Control
-3837,Emotion Ad
-3838,Control
-3839,Emotion Ad
-3840,Reason Ad
-3841,Emotion Ad
+3835,Control
+3836,Emotion Ad
+3837,Control
+3838,Emotion Ad
+3839,Reason Ad
+3840,Emotion Ad
+3841,Control
 3842,Reason Ad
-3843,Emotion Ad
-3844,Reason Ad
-3845,Control
-3846,Emotion Ad
+3843,Control
+3844,Emotion Ad
+3845,Reason Ad
+3846,Reason Ad
 3847,Control
 3848,Control
 3849,Control
-3850,Control
+3850,Emotion Ad
 3851,Emotion Ad
-3852,Control
-3853,Control
+3852,Reason Ad
+3853,Emotion Ad
 3854,Control
 3855,Reason Ad
-3856,Control
-3857,Emotion Ad
-3858,Emotion Ad
-3859,Emotion Ad
-3860,Reason Ad
+3856,Reason Ad
+3857,Control
+3858,Reason Ad
+3859,Control
+3860,Emotion Ad
 3861,Reason Ad
 3862,Emotion Ad
-3863,Reason Ad
-3864,Reason Ad
-3865,Emotion Ad
+3863,Emotion Ad
+3864,Control
+3865,Reason Ad
 3866,Emotion Ad
 3867,Emotion Ad
-3868,Emotion Ad
-3869,Reason Ad
+3868,Control
+3869,Emotion Ad
 3870,Control
 3871,Reason Ad
-3872,Control
-3873,Control
+3872,Emotion Ad
+3873,Emotion Ad
 3874,Emotion Ad
-3875,Reason Ad
-3876,Control
+3875,Emotion Ad
+3876,Emotion Ad
 3877,Emotion Ad
-3878,Emotion Ad
-3879,Reason Ad
-3880,Emotion Ad
+3878,Reason Ad
+3879,Emotion Ad
+3880,Reason Ad
 3881,Emotion Ad
-3882,Reason Ad
-3883,Reason Ad
-3884,Control
-3885,Control
-3886,Reason Ad
+3882,Emotion Ad
+3883,Emotion Ad
+3884,Emotion Ad
+3885,Emotion Ad
+3886,Emotion Ad
 3887,Emotion Ad
-3888,Control
-3889,Reason Ad
+3888,Emotion Ad
+3889,Control
 3890,Emotion Ad
 3891,Emotion Ad
 3892,Control
-3893,Control
+3893,Reason Ad
 3894,Emotion Ad
 3895,Emotion Ad
 3896,Emotion Ad
 3897,Emotion Ad
-3898,Emotion Ad
-3899,Reason Ad
-3900,Emotion Ad
-3901,Emotion Ad
+3898,Control
+3899,Emotion Ad
+3900,Control
+3901,Reason Ad
 3902,Emotion Ad
 3903,Reason Ad
 3904,Control
-3905,Reason Ad
-3906,Control
-3907,Control
+3905,Control
+3906,Emotion Ad
+3907,Emotion Ad
 3908,Control
-3909,Control
-3910,Control
+3909,Emotion Ad
+3910,Emotion Ad
 3911,Control
 3912,Reason Ad
 3913,Reason Ad
-3914,Control
-3915,Control
-3916,Reason Ad
-3917,Control
+3914,Reason Ad
+3915,Emotion Ad
+3916,Control
+3917,Emotion Ad
 3918,Emotion Ad
-3919,Emotion Ad
-3920,Control
-3921,Control
+3919,Control
+3920,Emotion Ad
+3921,Emotion Ad
 3922,Control
-3923,Emotion Ad
-3924,Emotion Ad
+3923,Reason Ad
+3924,Control
 3925,Reason Ad
-3926,Reason Ad
-3927,Emotion Ad
-3928,Emotion Ad
-3929,Emotion Ad
-3930,Control
+3926,Emotion Ad
+3927,Control
+3928,Reason Ad
+3929,Control
+3930,Emotion Ad
 3931,Emotion Ad
-3932,Emotion Ad
+3932,Control
 3933,Emotion Ad
-3934,Control
-3935,Emotion Ad
-3936,Control
+3934,Reason Ad
+3935,Control
+3936,Emotion Ad
 3937,Reason Ad
 3938,Reason Ad
 3939,Emotion Ad
-3940,Emotion Ad
-3941,Emotion Ad
+3940,Control
+3941,Reason Ad
 3942,Reason Ad
-3943,Reason Ad
-3944,Control
-3945,Emotion Ad
-3946,Control
-3947,Emotion Ad
-3948,Reason Ad
-3949,Reason Ad
-3950,Control
+3943,Control
+3944,Emotion Ad
+3945,Control
+3946,Reason Ad
+3947,Reason Ad
+3948,Control
+3949,Emotion Ad
+3950,Reason Ad
 3951,Reason Ad
-3952,Reason Ad
-3953,Control
-3954,Reason Ad
-3955,Emotion Ad
+3952,Emotion Ad
+3953,Reason Ad
+3954,Emotion Ad
+3955,Reason Ad
 3956,Control
-3957,Reason Ad
+3957,Control
 3958,Control
-3959,Emotion Ad
-3960,Reason Ad
-3961,Emotion Ad
-3962,Control
-3963,Emotion Ad
+3959,Control
+3960,Control
+3961,Reason Ad
+3962,Emotion Ad
+3963,Control
 3964,Reason Ad
-3965,Reason Ad
+3965,Control
 3966,Reason Ad
-3967,Reason Ad
-3968,Reason Ad
-3969,Reason Ad
-3970,Reason Ad
+3967,Emotion Ad
+3968,Emotion Ad
+3969,Emotion Ad
+3970,Control
 3971,Emotion Ad
-3972,Reason Ad
-3973,Reason Ad
-3974,Reason Ad
-3975,Reason Ad
+3972,Emotion Ad
+3973,Emotion Ad
+3974,Emotion Ad
+3975,Emotion Ad
 3976,Reason Ad
 3977,Emotion Ad
 3978,Reason Ad
-3979,Emotion Ad
+3979,Control
 3980,Control
 3981,Emotion Ad
 3982,Control
 3983,Emotion Ad
-3984,Emotion Ad
+3984,Control
 3985,Control
-3986,Control
+3986,Emotion Ad
 3987,Emotion Ad
 3988,Emotion Ad
 3989,Control
 3990,Control
 3991,Reason Ad
-3992,Reason Ad
-3993,Control
-3994,Reason Ad
-3995,Emotion Ad
+3992,Emotion Ad
+3993,Emotion Ad
+3994,Emotion Ad
+3995,Reason Ad
 3996,Emotion Ad
 3997,Emotion Ad
 3998,Reason Ad
 3999,Control
-4000,Control
-4001,Emotion Ad
-4002,Control
-4003,Reason Ad
+4000,Emotion Ad
+4001,Reason Ad
+4002,Emotion Ad
+4003,Control
 4004,Emotion Ad
 4005,Control
 4006,Control
 4007,Emotion Ad
 4008,Emotion Ad
 4009,Control
-4010,Reason Ad
-4011,Emotion Ad
-4012,Reason Ad
-4013,Control
+4010,Control
+4011,Reason Ad
+4012,Emotion Ad
+4013,Reason Ad
 4014,Reason Ad
-4015,Control
+4015,Emotion Ad
 4016,Reason Ad
-4017,Control
+4017,Emotion Ad
 4018,Reason Ad
-4019,Control
-4020,Control
-4021,Control
-4022,Emotion Ad
-4023,Emotion Ad
-4024,Reason Ad
-4025,Emotion Ad
+4019,Reason Ad
+4020,Emotion Ad
+4021,Reason Ad
+4022,Control
+4023,Control
+4024,Emotion Ad
+4025,Reason Ad
 4026,Control
-4027,Reason Ad
-4028,Reason Ad
-4029,Reason Ad
-4030,Reason Ad
-4031,Emotion Ad
-4032,Control
-4033,Reason Ad
+4027,Emotion Ad
+4028,Emotion Ad
+4029,Control
+4030,Emotion Ad
+4031,Reason Ad
+4032,Reason Ad
+4033,Control
 4034,Reason Ad
-4035,Emotion Ad
-4036,Emotion Ad
+4035,Reason Ad
+4036,Reason Ad
 4037,Emotion Ad
-4038,Emotion Ad
-4039,Reason Ad
-4040,Control
+4038,Control
+4039,Emotion Ad
+4040,Reason Ad
 4041,Emotion Ad
-4042,Control
-4043,Emotion Ad
-4044,Control
+4042,Reason Ad
+4043,Reason Ad
+4044,Reason Ad
 4045,Control
-4046,Reason Ad
-4047,Control
-4048,Reason Ad
-4049,Control
+4046,Emotion Ad
+4047,Reason Ad
+4048,Emotion Ad
+4049,Reason Ad
 4050,Control
 4051,Control
-4052,Emotion Ad
+4052,Reason Ad
 4053,Emotion Ad
 4054,Reason Ad
-4055,Reason Ad
+4055,Emotion Ad
 4056,Control
 4057,Reason Ad
 4058,Reason Ad
-4059,Control
+4059,Reason Ad
 4060,Emotion Ad
 4061,Reason Ad
-4062,Reason Ad
+4062,Emotion Ad
 4063,Emotion Ad
 4064,Reason Ad
-4065,Reason Ad
-4066,Control
-4067,Reason Ad
+4065,Control
+4066,Emotion Ad
+4067,Control
 4068,Emotion Ad
-4069,Emotion Ad
-4070,Reason Ad
+4069,Reason Ad
+4070,Control
 4071,Control
-4072,Emotion Ad
-4073,Control
-4074,Control
-4075,Emotion Ad
-4076,Control
+4072,Reason Ad
+4073,Reason Ad
+4074,Reason Ad
+4075,Control
+4076,Emotion Ad
 4077,Reason Ad
-4078,Reason Ad
-4079,Emotion Ad
-4080,Control
-4081,Emotion Ad
-4082,Reason Ad
-4083,Control
-4084,Reason Ad
-4085,Emotion Ad
-4086,Emotion Ad
-4087,Reason Ad
+4078,Emotion Ad
+4079,Reason Ad
+4080,Emotion Ad
+4081,Control
+4082,Emotion Ad
+4083,Reason Ad
+4084,Control
+4085,Control
+4086,Control
+4087,Control
 4088,Reason Ad
-4089,Control
-4090,Reason Ad
+4089,Emotion Ad
+4090,Emotion Ad
 4091,Control
-4092,Control
-4093,Emotion Ad
+4092,Emotion Ad
+4093,Control
 4094,Control
 4095,Reason Ad
-4096,Reason Ad
-4097,Reason Ad
-4098,Emotion Ad
+4096,Emotion Ad
+4097,Control
+4098,Control
 4099,Control
-4100,Emotion Ad
-4101,Reason Ad
-4102,Emotion Ad
-4103,Emotion Ad
+4100,Control
+4101,Emotion Ad
+4102,Reason Ad
+4103,Control
 4104,Emotion Ad
 4105,Emotion Ad
 4106,Control
-4107,Emotion Ad
-4108,Control
+4107,Control
+4108,Reason Ad
 4109,Control
-4110,Emotion Ad
-4111,Reason Ad
-4112,Control
+4110,Control
+4111,Emotion Ad
+4112,Reason Ad
 4113,Emotion Ad
-4114,Control
-4115,Emotion Ad
-4116,Emotion Ad
-4117,Reason Ad
-4118,Reason Ad
+4114,Reason Ad
+4115,Control
+4116,Reason Ad
+4117,Control
+4118,Control
 4119,Control
 4120,Emotion Ad
-4121,Emotion Ad
-4122,Emotion Ad
+4121,Control
+4122,Reason Ad
 4123,Control
-4124,Control
+4124,Emotion Ad
 4125,Emotion Ad
 4126,Reason Ad
-4127,Reason Ad
-4128,Emotion Ad
-4129,Emotion Ad
-4130,Reason Ad
-4131,Control
-4132,Reason Ad
-4133,Reason Ad
-4134,Reason Ad
+4127,Control
+4128,Reason Ad
+4129,Reason Ad
+4130,Control
+4131,Emotion Ad
+4132,Emotion Ad
+4133,Emotion Ad
+4134,Control
 4135,Control
-4136,Emotion Ad
-4137,Emotion Ad
+4136,Control
+4137,Reason Ad
 4138,Control
-4139,Emotion Ad
-4140,Control
+4139,Reason Ad
+4140,Reason Ad
 4141,Reason Ad
-4142,Emotion Ad
-4143,Emotion Ad
+4142,Control
+4143,Reason Ad
 4144,Reason Ad
-4145,Reason Ad
+4145,Control
 4146,Emotion Ad
-4147,Control
-4148,Reason Ad
-4149,Reason Ad
-4150,Emotion Ad
+4147,Reason Ad
+4148,Control
+4149,Emotion Ad
+4150,Reason Ad
 4151,Control
 4152,Control
 4153,Emotion Ad
-4154,Reason Ad
+4154,Emotion Ad
 4155,Control
-4156,Control
-4157,Reason Ad
+4156,Reason Ad
+4157,Control
 4158,Reason Ad
 4159,Reason Ad
 4160,Control
-4161,Control
+4161,Reason Ad
 4162,Control
-4163,Reason Ad
+4163,Control
 4164,Emotion Ad
-4165,Emotion Ad
-4166,Control
-4167,Control
-4168,Reason Ad
-4169,Reason Ad
-4170,Reason Ad
+4165,Reason Ad
+4166,Reason Ad
+4167,Reason Ad
+4168,Emotion Ad
+4169,Emotion Ad
+4170,Emotion Ad
 4171,Emotion Ad
-4172,Reason Ad
-4173,Emotion Ad
-4174,Reason Ad
-4175,Emotion Ad
-4176,Emotion Ad
-4177,Reason Ad
-4178,Control
-4179,Reason Ad
+4172,Emotion Ad
+4173,Control
+4174,Control
+4175,Reason Ad
+4176,Reason Ad
+4177,Emotion Ad
+4178,Emotion Ad
+4179,Control
 4180,Reason Ad
 4181,Reason Ad
-4182,Emotion Ad
-4183,Emotion Ad
-4184,Reason Ad
+4182,Control
+4183,Reason Ad
+4184,Control
 4185,Reason Ad
-4186,Reason Ad
-4187,Reason Ad
-4188,Reason Ad
-4189,Control
-4190,Reason Ad
-4191,Reason Ad
-4192,Control
-4193,Reason Ad
-4194,Reason Ad
-4195,Reason Ad
-4196,Emotion Ad
-4197,Control
+4186,Control
+4187,Control
+4188,Control
+4189,Emotion Ad
+4190,Control
+4191,Emotion Ad
+4192,Emotion Ad
+4193,Emotion Ad
+4194,Emotion Ad
+4195,Emotion Ad
+4196,Control
+4197,Emotion Ad
 4198,Control
 4199,Emotion Ad
-4200,Emotion Ad
-4201,Reason Ad
+4200,Control
+4201,Control
 4202,Control
-4203,Reason Ad
-4204,Control
-4205,Reason Ad
-4206,Reason Ad
-4207,Emotion Ad
+4203,Control
+4204,Emotion Ad
+4205,Control
+4206,Emotion Ad
+4207,Control
 4208,Reason Ad
-4209,Emotion Ad
-4210,Emotion Ad
+4209,Control
+4210,Control
 4211,Control
-4212,Reason Ad
-4213,Control
-4214,Control
-4215,Emotion Ad
-4216,Control
+4212,Control
+4213,Emotion Ad
+4214,Emotion Ad
+4215,Reason Ad
+4216,Emotion Ad
 4217,Emotion Ad
 4218,Control
 4219,Reason Ad
 4220,Emotion Ad
-4221,Control
+4221,Reason Ad
 4222,Emotion Ad
-4223,Emotion Ad
-4224,Reason Ad
-4225,Reason Ad
-4226,Emotion Ad
-4227,Emotion Ad
-4228,Emotion Ad
-4229,Emotion Ad
-4230,Emotion Ad
+4223,Reason Ad
+4224,Emotion Ad
+4225,Emotion Ad
+4226,Control
+4227,Control
+4228,Reason Ad
+4229,Control
+4230,Reason Ad
 4231,Reason Ad
 4232,Control
 4233,Control
-4234,Emotion Ad
+4234,Control
 4235,Reason Ad
-4236,Reason Ad
-4237,Emotion Ad
-4238,Reason Ad
+4236,Control
+4237,Reason Ad
+4238,Control
 4239,Emotion Ad
-4240,Reason Ad
-4241,Control
-4242,Reason Ad
-4243,Control
-4244,Control
-4245,Emotion Ad
-4246,Emotion Ad
-4247,Reason Ad
-4248,Emotion Ad
+4240,Control
+4241,Emotion Ad
+4242,Control
+4243,Emotion Ad
+4244,Reason Ad
+4245,Control
+4246,Control
+4247,Emotion Ad
+4248,Control
 4249,Emotion Ad
-4250,Emotion Ad
+4250,Control
 4251,Control
-4252,Reason Ad
+4252,Emotion Ad
 4253,Emotion Ad
-4254,Reason Ad
+4254,Control
 4255,Reason Ad
 4256,Control
-4257,Emotion Ad
-4258,Reason Ad
-4259,Emotion Ad
-4260,Emotion Ad
-4261,Control
-4262,Reason Ad
+4257,Reason Ad
+4258,Control
+4259,Reason Ad
+4260,Control
+4261,Reason Ad
+4262,Emotion Ad
 4263,Control
 4264,Emotion Ad
 4265,Emotion Ad
-4266,Reason Ad
+4266,Emotion Ad
 4267,Emotion Ad
-4268,Reason Ad
-4269,Emotion Ad
+4268,Emotion Ad
+4269,Control
 4270,Emotion Ad
 4271,Control
-4272,Emotion Ad
-4273,Emotion Ad
-4274,Emotion Ad
-4275,Reason Ad
-4276,Control
-4277,Reason Ad
-4278,Emotion Ad
-4279,Emotion Ad
+4272,Control
+4273,Reason Ad
+4274,Control
+4275,Control
+4276,Emotion Ad
+4277,Control
+4278,Control
+4279,Reason Ad
 4280,Control
-4281,Emotion Ad
-4282,Control
-4283,Reason Ad
-4284,Emotion Ad
-4285,Control
-4286,Control
+4281,Reason Ad
+4282,Reason Ad
+4283,Emotion Ad
+4284,Control
+4285,Reason Ad
+4286,Emotion Ad
 4287,Control
 4288,Reason Ad
 4289,Emotion Ad
 4290,Emotion Ad
-4291,Reason Ad
-4292,Emotion Ad
-4293,Emotion Ad
+4291,Emotion Ad
+4292,Control
+4293,Control
 4294,Control
-4295,Emotion Ad
-4296,Emotion Ad
-4297,Reason Ad
-4298,Control
-4299,Control
-4300,Reason Ad
-4301,Control
-4302,Control
-4303,Emotion Ad
-4304,Emotion Ad
-4305,Emotion Ad
-4306,Control
+4295,Reason Ad
+4296,Control
+4297,Control
+4298,Reason Ad
+4299,Reason Ad
+4300,Emotion Ad
+4301,Emotion Ad
+4302,Reason Ad
+4303,Reason Ad
+4304,Reason Ad
+4305,Control
+4306,Reason Ad
 4307,Emotion Ad
 4308,Control
 4309,Reason Ad
 4310,Control
-4311,Emotion Ad
-4312,Emotion Ad
+4311,Control
+4312,Control
 4313,Reason Ad
-4314,Emotion Ad
-4315,Reason Ad
-4316,Control
-4317,Reason Ad
-4318,Reason Ad
-4319,Reason Ad
+4314,Reason Ad
+4315,Control
+4316,Reason Ad
+4317,Control
+4318,Control
+4319,Emotion Ad
 4320,Control
 4321,Reason Ad
-4322,Emotion Ad
-4323,Reason Ad
-4324,Control
-4325,Reason Ad
-4326,Reason Ad
+4322,Reason Ad
+4323,Control
+4324,Reason Ad
+4325,Emotion Ad
+4326,Emotion Ad
 4327,Emotion Ad
-4328,Control
-4329,Reason Ad
-4330,Reason Ad
-4331,Control
-4332,Emotion Ad
+4328,Emotion Ad
+4329,Control
+4330,Control
+4331,Reason Ad
+4332,Control
 4333,Emotion Ad
 4334,Emotion Ad
 4335,Emotion Ad
 4336,Control
 4337,Emotion Ad
-4338,Reason Ad
+4338,Control
 4339,Emotion Ad
-4340,Control
-4341,Reason Ad
-4342,Reason Ad
-4343,Reason Ad
-4344,Reason Ad
+4340,Reason Ad
+4341,Control
+4342,Emotion Ad
+4343,Control
+4344,Emotion Ad
 4345,Reason Ad
-4346,Control
+4346,Reason Ad
 4347,Reason Ad
 4348,Reason Ad
-4349,Emotion Ad
+4349,Reason Ad
 4350,Control
 4351,Control
-4352,Reason Ad
-4353,Reason Ad
-4354,Emotion Ad
-4355,Control
-4356,Emotion Ad
-4357,Reason Ad
+4352,Emotion Ad
+4353,Emotion Ad
+4354,Reason Ad
+4355,Reason Ad
+4356,Reason Ad
+4357,Control
 4358,Control
 4359,Emotion Ad
 4360,Reason Ad
-4361,Emotion Ad
-4362,Emotion Ad
+4361,Control
+4362,Control
 4363,Reason Ad
-4364,Control
-4365,Control
-4366,Control
+4364,Emotion Ad
+4365,Reason Ad
+4366,Emotion Ad
 4367,Control
 4368,Control
 4369,Control
-4370,Reason Ad
+4370,Control
 4371,Emotion Ad
-4372,Reason Ad
+4372,Control
 4373,Emotion Ad
-4374,Control
+4374,Reason Ad
 4375,Emotion Ad
-4376,Reason Ad
+4376,Emotion Ad
 4377,Reason Ad
 4378,Reason Ad
-4379,Emotion Ad
+4379,Reason Ad
 4380,Control
-4381,Reason Ad
-4382,Emotion Ad
+4381,Control
+4382,Control
 4383,Emotion Ad
 4384,Reason Ad
 4385,Reason Ad
 4386,Emotion Ad
-4387,Emotion Ad
+4387,Reason Ad
 4388,Emotion Ad
-4389,Control
-4390,Reason Ad
+4389,Reason Ad
+4390,Emotion Ad
 4391,Control
 4392,Control
-4393,Control
-4394,Reason Ad
-4395,Emotion Ad
-4396,Reason Ad
+4393,Emotion Ad
+4394,Emotion Ad
+4395,Reason Ad
+4396,Control
 4397,Control
-4398,Control
-4399,Control
+4398,Emotion Ad
+4399,Emotion Ad
 4400,Emotion Ad
-4401,Control
-4402,Control
+4401,Reason Ad
+4402,Emotion Ad
 4403,Reason Ad
 4404,Reason Ad
 4405,Control
 4406,Control
-4407,Control
-4408,Control
-4409,Reason Ad
+4407,Reason Ad
+4408,Reason Ad
+4409,Emotion Ad
 4410,Emotion Ad
-4411,Emotion Ad
-4412,Emotion Ad
+4411,Reason Ad
+4412,Reason Ad
 4413,Reason Ad
-4414,Control
-4415,Control
-4416,Control
-4417,Reason Ad
+4414,Emotion Ad
+4415,Emotion Ad
+4416,Emotion Ad
+4417,Emotion Ad
 4418,Reason Ad
-4419,Emotion Ad
-4420,Control
+4419,Control
+4420,Emotion Ad
 4421,Emotion Ad
-4422,Emotion Ad
-4423,Reason Ad
-4424,Reason Ad
+4422,Control
+4423,Control
+4424,Control
 4425,Emotion Ad
 4426,Reason Ad
-4427,Control
-4428,Reason Ad
-4429,Reason Ad
-4430,Emotion Ad
+4427,Reason Ad
+4428,Emotion Ad
+4429,Emotion Ad
+4430,Reason Ad
 4431,Reason Ad
 4432,Reason Ad
-4433,Emotion Ad
-4434,Control
-4435,Emotion Ad
+4433,Reason Ad
+4434,Emotion Ad
+4435,Control
 4436,Emotion Ad
-4437,Emotion Ad
-4438,Reason Ad
-4439,Reason Ad
-4440,Control
+4437,Reason Ad
+4438,Emotion Ad
+4439,Control
+4440,Emotion Ad
 4441,Emotion Ad
-4442,Emotion Ad
-4443,Control
+4442,Reason Ad
+4443,Reason Ad
 4444,Control
 4445,Reason Ad
-4446,Control
-4447,Control
-4448,Emotion Ad
+4446,Reason Ad
+4447,Reason Ad
+4448,Control
 4449,Control
-4450,Reason Ad
+4450,Control
 4451,Reason Ad
-4452,Control
-4453,Control
+4452,Emotion Ad
+4453,Reason Ad
 4454,Emotion Ad
 4455,Reason Ad
 4456,Control
 4457,Control
 4458,Emotion Ad
-4459,Control
-4460,Control
-4461,Emotion Ad
-4462,Emotion Ad
-4463,Emotion Ad
-4464,Control
-4465,Emotion Ad
-4466,Emotion Ad
-4467,Control
+4459,Reason Ad
+4460,Reason Ad
+4461,Reason Ad
+4462,Control
+4463,Control
+4464,Emotion Ad
+4465,Reason Ad
+4466,Reason Ad
+4467,Reason Ad
 4468,Reason Ad
-4469,Emotion Ad
-4470,Reason Ad
+4469,Reason Ad
+4470,Emotion Ad
 4471,Emotion Ad
-4472,Reason Ad
+4472,Emotion Ad
 4473,Control
 4474,Control
-4475,Control
-4476,Control
-4477,Emotion Ad
+4475,Emotion Ad
+4476,Reason Ad
+4477,Reason Ad
 4478,Emotion Ad
-4479,Reason Ad
-4480,Emotion Ad
+4479,Emotion Ad
+4480,Control
 4481,Reason Ad
 4482,Control
 4483,Emotion Ad
-4484,Emotion Ad
-4485,Control
-4486,Control
-4487,Emotion Ad
+4484,Reason Ad
+4485,Emotion Ad
+4486,Emotion Ad
+4487,Reason Ad
 4488,Control
-4489,Reason Ad
-4490,Control
-4491,Emotion Ad
-4492,Control
+4489,Control
+4490,Reason Ad
+4491,Reason Ad
+4492,Reason Ad
 4493,Reason Ad
-4494,Reason Ad
-4495,Emotion Ad
-4496,Reason Ad
-4497,Reason Ad
-4498,Emotion Ad
-4499,Emotion Ad
-4500,Reason Ad
+4494,Emotion Ad
+4495,Control
+4496,Emotion Ad
+4497,Emotion Ad
+4498,Reason Ad
+4499,Control
+4500,Emotion Ad
 4501,Emotion Ad
-4502,Control
+4502,Emotion Ad
 4503,Control
 4504,Reason Ad
-4505,Emotion Ad
-4506,Control
-4507,Control
+4505,Control
+4506,Reason Ad
+4507,Reason Ad
 4508,Reason Ad
 4509,Control
-4510,Reason Ad
-4511,Control
-4512,Control
+4510,Emotion Ad
+4511,Reason Ad
+4512,Emotion Ad
 4513,Reason Ad
-4514,Reason Ad
+4514,Control
 4515,Reason Ad
 4516,Control
-4517,Emotion Ad
+4517,Reason Ad
 4518,Emotion Ad
 4519,Control
-4520,Emotion Ad
+4520,Control
 4521,Control
 4522,Reason Ad
-4523,Control
-4524,Emotion Ad
+4523,Emotion Ad
+4524,Reason Ad
 4525,Emotion Ad
 4526,Emotion Ad
-4527,Reason Ad
-4528,Reason Ad
-4529,Control
-4530,Emotion Ad
-4531,Emotion Ad
-4532,Control
+4527,Control
+4528,Control
+4529,Emotion Ad
+4530,Reason Ad
+4531,Control
+4532,Reason Ad
 4533,Emotion Ad
 4534,Emotion Ad
 4535,Reason Ad
 4536,Control
 4537,Reason Ad
-4538,Emotion Ad
-4539,Reason Ad
-4540,Control
-4541,Reason Ad
-4542,Reason Ad
+4538,Reason Ad
+4539,Control
+4540,Emotion Ad
+4541,Control
+4542,Control
 4543,Emotion Ad
-4544,Emotion Ad
-4545,Reason Ad
+4544,Reason Ad
+4545,Emotion Ad
 4546,Reason Ad
-4547,Reason Ad
-4548,Reason Ad
-4549,Control
-4550,Control
+4547,Emotion Ad
+4548,Emotion Ad
+4549,Reason Ad
+4550,Emotion Ad
 4551,Reason Ad
-4552,Emotion Ad
+4552,Reason Ad
 4553,Emotion Ad
-4554,Emotion Ad
-4555,Emotion Ad
-4556,Control
-4557,Control
-4558,Reason Ad
-4559,Emotion Ad
-4560,Emotion Ad
+4554,Control
+4555,Control
+4556,Reason Ad
+4557,Reason Ad
+4558,Emotion Ad
+4559,Reason Ad
+4560,Control
 4561,Reason Ad
 4562,Emotion Ad
-4563,Emotion Ad
+4563,Control
 4564,Reason Ad
-4565,Emotion Ad
+4565,Control
 4566,Control
-4567,Emotion Ad
-4568,Control
-4569,Reason Ad
+4567,Control
+4568,Emotion Ad
+4569,Emotion Ad
 4570,Control
-4571,Emotion Ad
-4572,Reason Ad
-4573,Emotion Ad
-4574,Emotion Ad
-4575,Reason Ad
-4576,Reason Ad
-4577,Emotion Ad
+4571,Reason Ad
+4572,Control
+4573,Control
+4574,Control
+4575,Control
+4576,Control
+4577,Reason Ad
 4578,Reason Ad
-4579,Reason Ad
-4580,Control
+4579,Control
+4580,Reason Ad
 4581,Reason Ad
 4582,Emotion Ad
 4583,Reason Ad
 4584,Emotion Ad
-4585,Control
-4586,Reason Ad
-4587,Control
-4588,Reason Ad
+4585,Reason Ad
+4586,Emotion Ad
+4587,Reason Ad
+4588,Control
 4589,Reason Ad
 4590,Reason Ad
 4591,Reason Ad
 4592,Reason Ad
-4593,Emotion Ad
+4593,Reason Ad
 4594,Control
-4595,Control
-4596,Emotion Ad
-4597,Control
+4595,Reason Ad
+4596,Control
+4597,Reason Ad
 4598,Control
 4599,Control
 4600,Reason Ad
 4601,Control
-4602,Reason Ad
+4602,Control
 4603,Reason Ad
-4604,Control
-4605,Emotion Ad
-4606,Control
-4607,Emotion Ad
+4604,Reason Ad
+4605,Reason Ad
+4606,Emotion Ad
+4607,Reason Ad
 4608,Reason Ad
-4609,Emotion Ad
-4610,Control
-4611,Reason Ad
-4612,Control
+4609,Reason Ad
+4610,Emotion Ad
+4611,Control
+4612,Reason Ad
 4613,Control
-4614,Reason Ad
-4615,Control
-4616,Reason Ad
-4617,Control
-4618,Control
+4614,Emotion Ad
+4615,Emotion Ad
+4616,Control
+4617,Reason Ad
+4618,Emotion Ad
 4619,Emotion Ad
 4620,Reason Ad
-4621,Emotion Ad
+4621,Control
 4622,Emotion Ad
 4623,Control
 4624,Reason Ad
-4625,Control
-4626,Reason Ad
-4627,Emotion Ad
-4628,Control
+4625,Reason Ad
+4626,Emotion Ad
+4627,Reason Ad
+4628,Reason Ad
 4629,Reason Ad
-4630,Control
-4631,Emotion Ad
-4632,Control
+4630,Emotion Ad
+4631,Reason Ad
+4632,Emotion Ad
 4633,Reason Ad
-4634,Emotion Ad
+4634,Reason Ad
 4635,Control
-4636,Reason Ad
-4637,Reason Ad
+4636,Emotion Ad
+4637,Control
 4638,Reason Ad
-4639,Control
-4640,Reason Ad
+4639,Reason Ad
+4640,Emotion Ad
 4641,Reason Ad
 4642,Control
 4643,Control
 4644,Emotion Ad
-4645,Emotion Ad
-4646,Emotion Ad
+4645,Control
+4646,Control
 4647,Reason Ad
 4648,Emotion Ad
-4649,Control
+4649,Reason Ad
 4650,Emotion Ad
 4651,Reason Ad
-4652,Control
-4653,Control
-4654,Reason Ad
+4652,Emotion Ad
+4653,Reason Ad
+4654,Control
 4655,Reason Ad
-4656,Emotion Ad
-4657,Reason Ad
-4658,Reason Ad
-4659,Emotion Ad
-4660,Control
-4661,Control
+4656,Control
+4657,Control
+4658,Emotion Ad
+4659,Control
+4660,Reason Ad
+4661,Reason Ad
 4662,Reason Ad
-4663,Emotion Ad
-4664,Emotion Ad
-4665,Control
-4666,Reason Ad
-4667,Emotion Ad
-4668,Control
-4669,Control
-4670,Control
-4671,Control
-4672,Reason Ad
-4673,Emotion Ad
-4674,Emotion Ad
-4675,Reason Ad
+4663,Control
+4664,Control
+4665,Emotion Ad
+4666,Emotion Ad
+4667,Reason Ad
+4668,Emotion Ad
+4669,Reason Ad
+4670,Reason Ad
+4671,Reason Ad
+4672,Emotion Ad
+4673,Reason Ad
+4674,Reason Ad
+4675,Emotion Ad
 4676,Reason Ad
 4677,Control
 4678,Emotion Ad
-4679,Control
-4680,Control
-4681,Reason Ad
-4682,Reason Ad
-4683,Reason Ad
-4684,Emotion Ad
-4685,Emotion Ad
-4686,Reason Ad
-4687,Emotion Ad
-4688,Reason Ad
-4689,Control
+4679,Reason Ad
+4680,Emotion Ad
+4681,Emotion Ad
+4682,Control
+4683,Control
+4684,Reason Ad
+4685,Control
+4686,Control
+4687,Control
+4688,Emotion Ad
+4689,Emotion Ad
 4690,Reason Ad
-4691,Control
-4692,Emotion Ad
-4693,Control
-4694,Reason Ad
-4695,Emotion Ad
-4696,Emotion Ad
-4697,Emotion Ad
+4691,Reason Ad
+4692,Control
+4693,Reason Ad
+4694,Control
+4695,Control
+4696,Control
+4697,Control
 4698,Emotion Ad
-4699,Emotion Ad
-4700,Emotion Ad
-4701,Control
-4702,Reason Ad
-4703,Control
-4704,Control
-4705,Control
-4706,Emotion Ad
-4707,Control
-4708,Control
+4699,Reason Ad
+4700,Control
+4701,Reason Ad
+4702,Emotion Ad
+4703,Emotion Ad
+4704,Emotion Ad
+4705,Reason Ad
+4706,Control
+4707,Reason Ad
+4708,Reason Ad
 4709,Reason Ad
 4710,Reason Ad
 4711,Reason Ad
 4712,Reason Ad
 4713,Control
 4714,Reason Ad
-4715,Reason Ad
+4715,Control
 4716,Emotion Ad
 4717,Reason Ad
 4718,Emotion Ad
 4719,Reason Ad
-4720,Emotion Ad
-4721,Reason Ad
+4720,Reason Ad
+4721,Emotion Ad
 4722,Control
-4723,Reason Ad
-4724,Reason Ad
+4723,Control
+4724,Control
 4725,Emotion Ad
-4726,Control
-4727,Control
-4728,Control
-4729,Emotion Ad
+4726,Emotion Ad
+4727,Emotion Ad
+4728,Emotion Ad
+4729,Reason Ad
 4730,Emotion Ad
-4731,Reason Ad
-4732,Reason Ad
-4733,Control
+4731,Control
+4732,Emotion Ad
+4733,Reason Ad
 4734,Control
-4735,Emotion Ad
-4736,Emotion Ad
-4737,Control
-4738,Reason Ad
-4739,Control
-4740,Reason Ad
-4741,Emotion Ad
-4742,Control
-4743,Reason Ad
-4744,Emotion Ad
-4745,Emotion Ad
-4746,Control
+4735,Reason Ad
+4736,Reason Ad
+4737,Reason Ad
+4738,Emotion Ad
+4739,Reason Ad
+4740,Emotion Ad
+4741,Control
+4742,Emotion Ad
+4743,Emotion Ad
+4744,Control
+4745,Control
+4746,Reason Ad
 4747,Reason Ad
 4748,Control
-4749,Emotion Ad
-4750,Control
+4749,Reason Ad
+4750,Emotion Ad
 4751,Emotion Ad
-4752,Emotion Ad
+4752,Reason Ad
 4753,Emotion Ad
-4754,Emotion Ad
-4755,Reason Ad
-4756,Emotion Ad
-4757,Reason Ad
-4758,Control
+4754,Control
+4755,Control
+4756,Reason Ad
+4757,Emotion Ad
+4758,Reason Ad
 4759,Reason Ad
-4760,Control
-4761,Reason Ad
+4760,Emotion Ad
+4761,Emotion Ad
 4762,Emotion Ad
 4763,Reason Ad
-4764,Emotion Ad
-4765,Reason Ad
-4766,Reason Ad
-4767,Emotion Ad
-4768,Emotion Ad
+4764,Reason Ad
+4765,Control
+4766,Control
+4767,Reason Ad
+4768,Control
 4769,Emotion Ad
-4770,Reason Ad
-4771,Control
-4772,Reason Ad
-4773,Reason Ad
+4770,Emotion Ad
+4771,Emotion Ad
+4772,Control
+4773,Emotion Ad
 4774,Control
 4775,Control
 4776,Emotion Ad
 4777,Emotion Ad
 4778,Reason Ad
-4779,Reason Ad
-4780,Emotion Ad
-4781,Control
+4779,Emotion Ad
+4780,Reason Ad
+4781,Emotion Ad
 4782,Emotion Ad
-4783,Control
-4784,Control
-4785,Reason Ad
-4786,Control
-4787,Emotion Ad
-4788,Reason Ad
-4789,Emotion Ad
-4790,Reason Ad
-4791,Emotion Ad
+4783,Reason Ad
+4784,Reason Ad
+4785,Control
+4786,Reason Ad
+4787,Reason Ad
+4788,Control
+4789,Control
+4790,Emotion Ad
+4791,Reason Ad
 4792,Emotion Ad
 4793,Control
 4794,Emotion Ad
 4795,Reason Ad
 4796,Control
 4797,Emotion Ad
-4798,Reason Ad
-4799,Control
+4798,Emotion Ad
+4799,Reason Ad
 4800,Emotion Ad
-4801,Emotion Ad
-4802,Control
-4803,Reason Ad
+4801,Reason Ad
+4802,Reason Ad
+4803,Emotion Ad
 4804,Emotion Ad
 4805,Emotion Ad
-4806,Emotion Ad
-4807,Control
-4808,Emotion Ad
-4809,Control
+4806,Reason Ad
+4807,Emotion Ad
+4808,Reason Ad
+4809,Emotion Ad
 4810,Control
 4811,Emotion Ad
 4812,Control
-4813,Reason Ad
+4813,Control
 4814,Control
-4815,Emotion Ad
-4816,Reason Ad
-4817,Reason Ad
-4818,Control
-4819,Reason Ad
-4820,Control
-4821,Emotion Ad
-4822,Reason Ad
-4823,Reason Ad
-4824,Emotion Ad
-4825,Control
+4815,Control
+4816,Emotion Ad
+4817,Control
+4818,Reason Ad
+4819,Control
+4820,Reason Ad
+4821,Reason Ad
+4822,Control
+4823,Control
+4824,Reason Ad
+4825,Emotion Ad
 4826,Control
-4827,Emotion Ad
-4828,Control
-4829,Reason Ad
-4830,Emotion Ad
-4831,Emotion Ad
-4832,Control
-4833,Reason Ad
-4834,Emotion Ad
-4835,Emotion Ad
-4836,Emotion Ad
-4837,Control
-4838,Emotion Ad
-4839,Reason Ad
-4840,Reason Ad
-4841,Reason Ad
+4827,Control
+4828,Reason Ad
+4829,Emotion Ad
+4830,Control
+4831,Reason Ad
+4832,Reason Ad
+4833,Emotion Ad
+4834,Control
+4835,Reason Ad
+4836,Control
+4837,Emotion Ad
+4838,Reason Ad
+4839,Control
+4840,Emotion Ad
+4841,Emotion Ad
 4842,Emotion Ad
-4843,Reason Ad
+4843,Control
 4844,Reason Ad
-4845,Reason Ad
-4846,Emotion Ad
-4847,Control
-4848,Reason Ad
+4845,Control
+4846,Reason Ad
+4847,Reason Ad
+4848,Emotion Ad
 4849,Control
-4850,Control
-4851,Control
-4852,Reason Ad
+4850,Emotion Ad
+4851,Emotion Ad
+4852,Emotion Ad
 4853,Reason Ad
 4854,Control
-4855,Reason Ad
+4855,Control
 4856,Emotion Ad
-4857,Emotion Ad
-4858,Reason Ad
+4857,Control
+4858,Emotion Ad
 4859,Reason Ad
-4860,Emotion Ad
-4861,Emotion Ad
-4862,Control
+4860,Control
+4861,Reason Ad
+4862,Reason Ad
 4863,Reason Ad
-4864,Control
+4864,Emotion Ad
 4865,Reason Ad
-4866,Emotion Ad
+4866,Reason Ad
 4867,Reason Ad
-4868,Control
+4868,Emotion Ad
 4869,Reason Ad
-4870,Reason Ad
-4871,Control
-4872,Emotion Ad
-4873,Reason Ad
-4874,Control
-4875,Emotion Ad
-4876,Reason Ad
+4870,Control
+4871,Reason Ad
+4872,Reason Ad
+4873,Control
+4874,Emotion Ad
+4875,Control
+4876,Emotion Ad
 4877,Emotion Ad
-4878,Control
-4879,Control
+4878,Emotion Ad
+4879,Emotion Ad
 4880,Reason Ad
 4881,Reason Ad
-4882,Control
-4883,Control
-4884,Reason Ad
+4882,Reason Ad
+4883,Emotion Ad
+4884,Control
 4885,Control
 4886,Reason Ad
 4887,Control
 4888,Control
-4889,Control
+4889,Reason Ad
 4890,Control
-4891,Emotion Ad
-4892,Emotion Ad
+4891,Reason Ad
+4892,Control
 4893,Reason Ad
 4894,Emotion Ad
-4895,Reason Ad
-4896,Reason Ad
-4897,Emotion Ad
-4898,Control
-4899,Control
-4900,Control
-4901,Emotion Ad
+4895,Emotion Ad
+4896,Emotion Ad
+4897,Control
+4898,Emotion Ad
+4899,Emotion Ad
+4900,Emotion Ad
+4901,Control
 4902,Control
-4903,Reason Ad
-4904,Emotion Ad
-4905,Control
-4906,Control
-4907,Reason Ad
+4903,Control
+4904,Control
+4905,Emotion Ad
+4906,Reason Ad
+4907,Control
 4908,Control
 4909,Control
 4910,Control
 4911,Emotion Ad
-4912,Emotion Ad
-4913,Emotion Ad
-4914,Emotion Ad
-4915,Control
+4912,Reason Ad
+4913,Control
+4914,Control
+4915,Emotion Ad
 4916,Control
-4917,Reason Ad
-4918,Emotion Ad
-4919,Emotion Ad
-4920,Reason Ad
-4921,Reason Ad
-4922,Emotion Ad
-4923,Emotion Ad
+4917,Control
+4918,Reason Ad
+4919,Control
+4920,Control
+4921,Control
+4922,Control
+4923,Reason Ad
 4924,Emotion Ad
 4925,Reason Ad
 4926,Emotion Ad
 4927,Reason Ad
 4928,Emotion Ad
 4929,Reason Ad
-4930,Control
-4931,Emotion Ad
-4932,Control
-4933,Control
+4930,Reason Ad
+4931,Reason Ad
+4932,Emotion Ad
+4933,Reason Ad
 4934,Control
-4935,Emotion Ad
-4936,Reason Ad
-4937,Reason Ad
-4938,Emotion Ad
+4935,Reason Ad
+4936,Emotion Ad
+4937,Emotion Ad
+4938,Control
 4939,Emotion Ad
-4940,Reason Ad
-4941,Control
-4942,Control
-4943,Emotion Ad
+4940,Emotion Ad
+4941,Reason Ad
+4942,Emotion Ad
+4943,Control
 4944,Control
-4945,Emotion Ad
-4946,Emotion Ad
-4947,Control
+4945,Reason Ad
+4946,Control
+4947,Emotion Ad
 4948,Reason Ad
-4949,Reason Ad
-4950,Emotion Ad
+4949,Emotion Ad
+4950,Control
 4951,Emotion Ad
-4952,Reason Ad
-4953,Control
-4954,Control
+4952,Emotion Ad
+4953,Emotion Ad
+4954,Emotion Ad
 4955,Reason Ad
 4956,Reason Ad
-4957,Reason Ad
-4958,Emotion Ad
+4957,Control
+4958,Control
 4959,Control
 4960,Emotion Ad
 4961,Emotion Ad
-4962,Emotion Ad
+4962,Reason Ad
 4963,Control
-4964,Emotion Ad
-4965,Emotion Ad
+4964,Reason Ad
+4965,Control
 4966,Emotion Ad
 4967,Reason Ad
 4968,Reason Ad
 4969,Emotion Ad
-4970,Control
+4970,Reason Ad
 4971,Reason Ad
-4972,Reason Ad
+4972,Control
 4973,Emotion Ad
-4974,Emotion Ad
-4975,Emotion Ad
-4976,Emotion Ad
-4977,Emotion Ad
+4974,Control
+4975,Control
+4976,Control
+4977,Reason Ad
 4978,Emotion Ad
 4979,Control
 4980,Control
-4981,Emotion Ad
-4982,Emotion Ad
-4983,Reason Ad
+4981,Reason Ad
+4982,Reason Ad
+4983,Control
 4984,Control
-4985,Emotion Ad
+4985,Control
 4986,Reason Ad
 4987,Reason Ad
-4988,Control
-4989,Control
+4988,Reason Ad
+4989,Emotion Ad
 4990,Reason Ad
 4991,Emotion Ad
-4992,Emotion Ad
-4993,Emotion Ad
-4994,Control
-4995,Emotion Ad
-4996,Reason Ad
+4992,Reason Ad
+4993,Reason Ad
+4994,Reason Ad
+4995,Reason Ad
+4996,Control
 4997,Control
 4998,Emotion Ad
 4999,Control
-5000,Control
+5000,Emotion Ad
