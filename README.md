@@ -35,8 +35,7 @@ Conduct subgroup and sensitivity analyses for more in-depth insights.
 Interpret the results in the context of public health messaging and campaign strategies.
 ## Results
 The analysis aims to reveal:
-
-## The overall effectiveness of the ad campaigns.
+The overall effectiveness of the ad campaigns.
 Differences in vaccine uptake based on demographics and ad strategy.
 Insights into optimizing public health campaigns for vaccine promotion.
 Contributing
