@@ -12,7 +12,7 @@ The project involves a hypothetical field experiment where 5,000 participants ac
 - `Output.py`: Script for analyzing the simulated data, including logistic regression.
 - `baseline_survey_data.csv` : Baseline Survey
 - `random_assignment_data.csv`: Treatment Assignment
--`baseline_survey_data.csv`: Endline Survey
+- `baseline_survey_data.csv`: Endline Survey
 ## Data Simulation
 
 The simulation process involves:
