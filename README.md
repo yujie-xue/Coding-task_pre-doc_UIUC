@@ -22,21 +22,28 @@ The simulation process involves:
 
 ## Installation and Usage
 
--Faker:
+# Libraries Used in the Project
 
-Purpose: To generate fake data such as names, addresses, numbers, etc. It's commonly used for testing and populating databases with pseudo-random data for simulation purposes.
--Pandas:
+## 1. Faker
+- **Purpose**: Generates fake data such as names, addresses, numbers, etc. 
+- **Common Uses**: Testing, database population for simulation purposes.
 
-Purpose: A powerful data manipulation and analysis library. It provides data structures like DataFrames and Series, along with a vast array of functions to perform operations such as data importing, cleaning, manipulation, and aggregation.
--NumPy:
+## 2. Pandas
+- **Purpose**: Provides data manipulation and analysis capabilities.
+- **Features**: Data structures like DataFrames and Series, functions for data importing, cleaning, manipulation, and aggregation.
 
-Purpose: A fundamental package for numerical computation in Python. It offers support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
--Statsmodels:
+## 3. NumPy
+- **Purpose**: Fundamental package for numerical computation in Python.
+- **Features**: Support for large, multi-dimensional arrays and matrices, and a collection of mathematical functions.
 
-Purpose: Used for statistical modeling and hypothesis testing. In your project, it's likely used for logistic regression analysis to assess the effectiveness of different ad campaigns.
--Random:
+## 4. Statsmodels
+- **Purpose**: Used for statistical modeling and hypothesis testing.
+- **Application**: Likely used for logistic regression analysis in the project.
 
-Purpose: Implements pseudo-random number generators for various distributions. In your project, it's used for generating random data or for random sampling processes.
+## 5. Random
+- **Purpose**: Implements pseudo-random number generators for various distributions.
+- **Usage**: Generating random data or for random sampling processes.
+
 
 ## bash
 git clone https://github.com/yujie-xue/Coding-task_pre-doc_UIUC/
