@@ -8,10 +8,11 @@ The project involves a hypothetical field experiment where 5,000 participants ac
 
 ## Repository Structure
 
-- `data_simulation.py`: Script for simulating the survey and assignment data.
-- `data_analysis.py`: Script for analyzing the simulated data, including logistic regression.
-- Additional scripts and notebooks as required.
-
+- `Stimulation.ipynb`: Script for simulating the survey and assignment data.
+- `Output.py`: Script for analyzing the simulated data, including logistic regression.
+- `baseline_survey_data.csv` : Baseline Survey
+- `random_assignment_data.csv`: Treatment Assignment
+-`baseline_survey_data.csv`: Endline Survey
 ## Data Simulation
 
 The simulation process involves:
