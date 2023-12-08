@@ -22,19 +22,19 @@ The simulation process involves:
 
 ## Installation and Usage
 
-Faker:
+-Faker:
 
 Purpose: To generate fake data such as names, addresses, numbers, etc. It's commonly used for testing and populating databases with pseudo-random data for simulation purposes.
-Pandas:
+-Pandas:
 
 Purpose: A powerful data manipulation and analysis library. It provides data structures like DataFrames and Series, along with a vast array of functions to perform operations such as data importing, cleaning, manipulation, and aggregation.
-NumPy:
+-NumPy:
 
 Purpose: A fundamental package for numerical computation in Python. It offers support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
-Statsmodels:
+-Statsmodels:
 
 Purpose: Used for statistical modeling and hypothesis testing. In your project, it's likely used for logistic regression analysis to assess the effectiveness of different ad campaigns.
-Random:
+-Random:
 
 Purpose: Implements pseudo-random number generators for various distributions. In your project, it's used for generating random data or for random sampling processes.
 
