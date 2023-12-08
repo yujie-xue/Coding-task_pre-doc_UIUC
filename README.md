@@ -22,7 +22,21 @@ The simulation process involves:
 
 ## Installation and Usage
 
-Clone the repository and install the required Python packages:
+Faker:
+
+Purpose: To generate fake data such as names, addresses, numbers, etc. It's commonly used for testing and populating databases with pseudo-random data for simulation purposes.
+Pandas:
+
+Purpose: A powerful data manipulation and analysis library. It provides data structures like DataFrames and Series, along with a vast array of functions to perform operations such as data importing, cleaning, manipulation, and aggregation.
+NumPy:
+
+Purpose: A fundamental package for numerical computation in Python. It offers support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+Statsmodels:
+
+Purpose: Used for statistical modeling and hypothesis testing. In your project, it's likely used for logistic regression analysis to assess the effectiveness of different ad campaigns.
+Random:
+
+Purpose: Implements pseudo-random number generators for various distributions. In your project, it's used for generating random data or for random sampling processes.
 
 ## bash
 git clone https://github.com/yujie-xue/Coding-task_pre-doc_UIUC/
